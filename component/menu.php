@@ -5,7 +5,7 @@
         <a href="mailto:gzt11111@gmail.com?Subject=Hello%20Robin">
             <i class="fas fa-envelope-open"></i>
         </a>   
-        <a href="https://www.tiktok.com/@robingan_frc5805">
+        <a href="https://www.tiktok.com/@robin.gan">
             <i class="fab fa-tiktok"></i>
         </a>
 
@@ -45,7 +45,7 @@
                 </div>
             </a>
 
-            <a href="https://www.tiktok.com/@robingan_frc5805">
+            <a href="https://www.tiktok.com/@robin.gan">
                 <div class="items">
                     <div class="icon-wrapper">
                         <i class="fab fa-tiktok"></i>
@@ -103,7 +103,7 @@
                 </div>
             </a>
 
-            <a href="https://www.tiktok.com/@robingan_frc5805">
+            <a href="https://www.tiktok.com/@robin.gan">
                 <div class="items">
                     <div class="icon-wrapper">
                         <i class="fab fa-tiktok"></i>

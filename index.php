@@ -45,7 +45,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
             <a href="mailto:robinganmusic@gmail.com?Subject=Hello%20Robin">
                 <i class="fas fa-envelope-open"></i>
             </a>   
-            <a href="https://www.tiktok.com/@robingan_frc5805">
+            <a href="https://www.tiktok.com/@robin.gan">
                 <i class="fab fa-tiktok"></i>
             </a>
 
@@ -85,7 +85,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
                     </div>
                 </a>
 
-                <a href="https://www.tiktok.com/@robingan_frc5805">
+                <a href="https://www.tiktok.com/@robin.gan">
                     <div class="items">
                         <div class="icon-wrapper">
                         <i class="fab fa-tiktok"></i>
@@ -112,13 +112,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
         <div id="blog" style="top: 20vw; left: 13%;">
             <!--Bio-->
             <div id="container-blog-bio">
-                <ul id="blog-image">
-                    <li>
-                        <a id="imageCon" href="https://www.youtube.com/channel/UCjCP4U38X4g9HG1onRKJxlA">
-                            <img id="imageCon-image" src="images/coo.png" alt="title" style="width:160px;"/>
-                        </a>
-                    </li>
-                </ul>    
+                   
                 <ul id="blog-icon">
                     <li>
                         <a href="bio">
@@ -204,7 +198,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
                     </div>
                 </a>
 
-                <a href="https://www.tiktok.com/@robingan_frc5805">
+                <a href="https://www.tiktok.com/@robin.gan">
                     <div class="items">
                         <div class="icon-wrapper">
                         <i class="fab fa-tiktok"></i>

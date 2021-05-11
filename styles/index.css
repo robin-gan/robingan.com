@@ -69,7 +69,6 @@ body {
     text-rendering: optimizeLegibility;
     font-weight: 900;
     color: var(--mainGold);
-    text-shadow: 1px 4px 6px var(--mainWhite), 0 0 0 #0736a4, 1px 4px 6px var(--mainWhite);
     white-space: nowrap;
 }
 
@@ -98,7 +97,7 @@ body {
     width: 100%;
     height: 100%;
     z-index: 1;
-    color: var(--lightGray);
+    color: var(--mainWhite);
     -webkit-transform: translate(0vw, 0) skew(13deg) scale(1, 0.8);
     -ms-transform: translate(0vw, 0) skew(13deg) scale(1, 0.8);
     transform: translate(0vw, 0) skew(13deg) scale(1, 0.8);
@@ -340,7 +339,8 @@ body {
     top:-13.15px;
     left:-11.2px;
     font-size:17px;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid white;
+    color: white;
 }
 #blog-blog {
     -webkit-transform: translate(150px, 10px);
@@ -516,7 +516,7 @@ body {
     grid-template-rows: 2fr 1fr;
     grid-gap: 10px;
     cursor: pointer;
-    border: 3px dotted black;
+    border: 3px dotted white;
     -webkit-transform: skew(-13deg);
     -ms-transform: skew(-13deg);
     transform: skew(-13deg);
@@ -566,9 +566,9 @@ body {
             margin-block-start: 0;
     -webkit-margin-after: 0;
             margin-block-end: 0;
-    -webkit-transform: translateY(20px);
-        -ms-transform: translateY(20px);
-            transform: translateY(20px);
+    -webkit-transform: translateY(10px);
+        -ms-transform: translateY(10px);
+            transform: translateY(10px);
 }
 
 .items:hover {
@@ -646,7 +646,7 @@ body {
     grid-template-rows: 2fr 1fr;
     grid-gap: 10px;
     cursor: pointer;
-    border: 3px dotted black;
+    border: 3px dotted white;
     background: var(--darkBackgroundGray);
     -webkit-transform: skew(-13deg);
     -ms-transform: skew(-13deg);

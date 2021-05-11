@@ -2,14 +2,14 @@
 :root {
     --transitionTime: 0.18s;
 
-    --darkBackgroundGray: #92999d;
+    --darkBackgroundGray: #343f50;
     --liGray:#b1b1b1;
     --lightGray:#d3cfcc;
 
     --white_used_in_btnHover:#E5E6F1;
     --mainWhite:white;
 
-    --mainGold: #caac3d;
+    --mainGold: #f3d155;
     --darkGoldDesLink: #a48207;
     --darkGoldDesLinkHover: #514107;
 }
