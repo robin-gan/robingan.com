@@ -38,6 +38,10 @@ body {
     z-index: 5;
 }
 
+.icons a {
+    margin-right: 5px;
+}
+
 .icons a i {
     font-size: 50px;
     color: var(--mainGold);

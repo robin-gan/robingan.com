@@ -41,19 +41,18 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
 <body>
     <div id="chassis">
         <div class="icons">
-            <a href="mailto:robinganmusic@gmail.com?Subject=Hello%20Robin">
-                <i class="fas fa-envelope-open"></i>
+            <a href="/bio">
+                <i class="fas fa-user-ninja"></i>
             </a>   
-            <a href="https://www.tiktok.com/@robin.gan">
-                <i class="fab fa-tiktok"></i>
+            <a href="https://github.com/robingan7/robingan.com">
+                <i class="fas fa-code"></i>
             </a>
 
-            <a href="https://github.com/robingan7">
-                <i class="fab fa-github" aria-hidden="true"></i>
+            <a href="/resume">
+                <i class="fas fa-file-alt"></i>
             </a>
-        
-            <a href="https://www.youtube.com/channel/UCjCP4U38X4g9HG1onRKJxlA">
-                <i class="fab fa-youtube" aria-hidden="true"></i>
+            <a href="https://github.com/robingan7">
+                <i class="fab fa-github-alt"></i>
             </a>
         </div>    
 
@@ -113,24 +112,10 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
             <div id="container-blog-bio">
                 <ul id="blog-icon">
                     <li>
-                        <a href="bio">
-                        <i class="fas fa-user-alt"></i>
-                        <h2 class="disappreadWhenHeightIsLow">Bio</h2>
-                        <span class="blog-icon-title">Bio</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="resume">
-                        <i class="fas fa-sticky-note"></i>
-                        <h2 class="disappreadWhenHeightIsLow">Résumé</h2>
-                        <span class="blog-icon-title">Ré-sumé</span>
-                        </a>
-                    </li>
-                    <li id="blog-bio">
-                        <a href="https://github.com/robingan7/robingan.com">
-                        <i class="fas fa-code disappreadWhenHeightIsLowForWeb"></i>
-                        <h2 class="disappreadWhenHeightIsLow" >Webite Code</h2>
-                        <span class="blog-icon-title">Code</span>
+                        <a href="">
+                        <i class="fas fa-smile-wink"></i>
+                        <h2 class="disappreadWhenHeightIsLow">Welcome</h2>
+                        <span class="blog-icon-title">Welcome</span>
                         </a>
                     </li>
                 </ul>    
