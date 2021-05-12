@@ -49,9 +49,7 @@ body {
 
 /*----header--------*/
 .wrapper {
-    width: 200px;
     margin: 0 auto;
-    height: 200px;
     z-index: 2;
 }
 
@@ -80,7 +78,7 @@ body {
     overflow: hidden;
     width: 100%;
     height: 50%;
-    color: var(--mainWhite);
+    color: white;
     -webkit-transform: translate(1.05vw, 0) skew(-13deg) scale(1, 1.2);
         -ms-transform: translate(1.05vw, 0) skew(-13deg) scale(1, 1.2);
             transform: translate(1.05vw, 0) skew(-13deg) scale(1, 1.2);

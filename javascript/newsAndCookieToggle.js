@@ -15,10 +15,10 @@ window.addEventListener('beforeunload', (event) => {
 });
 
 //test if the suer ask the cookie question
-var cookieasker = document.getElementById('cookie_asked');
+/*var cookieasker = document.getElementById('cookie_asked');
 if (Cookies.get('robingan.org_isAnswered') == undefined) {
     cookieasker.style.display = "block";
-}
+}*/
 
 //if the user response the cookie question
 function replyCookie(reply) {
@@ -317,8 +317,10 @@ function start(){
         activeDoesNotSupport();
     }
 }
+
+/*
 loadLastestNews();
 
 setTimeout(()=>{
     start();
-},2000);
+},2000);*/

@@ -26,7 +26,6 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
     <script src="javascript/newsAndCookieToggle.js" defer></script>
     <script src="javascript/index.js?version=1" defer></script>
     <script src="javascript/indexToggle.js" defer></script>
-    <script src="javascript/indexResize.js" defer></script>
     <!--<script data-ad-client="ca-pub-8604882353540201" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162844023-1"></script>
@@ -112,13 +111,6 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
         <div id="blog" style="top: 20vw; left: 13%;">
             <!--Bio-->
             <div id="container-blog-bio">
-               <!-- <ul id="blog-image">
-                    <li>
-                        <a id="imageCon" href="https://www.youtube.com/channel/UCjCP4U38X4g9HG1onRKJxlA">
-                            <img id="imageCon-image" src="images/coo.png" alt="title" style="width:160px;"/>
-                        </a>
-                    </li>
-                </ul>-->  
                 <ul id="blog-icon">
                     <li>
                         <a href="bio">
@@ -137,37 +129,13 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
                     <li id="blog-bio">
                         <a href="https://github.com/robingan7/robingan.com">
                         <i class="fas fa-code disappreadWhenHeightIsLowForWeb"></i>
-                        <h2 class="disappreadWhenHeightIsLow" >Web Code</h2>
+                        <h2 class="disappreadWhenHeightIsLow" >Webite Code</h2>
                         <span class="blog-icon-title">Code</span>
                         </a>
                     </li>
                 </ul>    
             </div>
-            <!--the blog blog section-->
-            <div id="container-blog-blog" style="margin-top:0px;">
-                <ul id="blog-blog">
-                    <li>
-                        <a href="#">
-                        <i class="fas fa-blog" aria-hidden="true"></i>
-                        <h2>Data Loading</h2>
-                        <p>2019.9.9</p>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-
-            <!--the blog project section-->
-            <div id="container-blog-project" style="margin-top:0px;">
-                <ul id="blog-project">
-                    <li>
-                        <a href="#">
-                        <i class="fas fa-project-diagram"></i>
-                        <h2>Data Loading</h2>
-                        <p>2019.9</p>
-                        </a>
-                    </li>
-                </ul>
-            </div>
+            
         </div>    
 
         <!--menu-->
