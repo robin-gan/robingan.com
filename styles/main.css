@@ -6,9 +6,9 @@
     --liGray:#b1b1b1;
     --lightGray:#d3cfcc;
 
-    --mainWhite:#f0f6fc;
+    --mainWhite:#d5d9dd;
 
-    --mainGold: #7ed1ce;
+    --mainGold: #31afee;
     --darkGoldDesLink: #a48207;
     --darkGoldDesLinkHover: #514107;
 }
@@ -45,7 +45,7 @@ strong, b{
     font-size:2.3px;
 }
 
-h2, h3, h4, h5, p, li{
+h2, h3, h4, h5, p, li, strong, b{
     color: var(--mainWhite);
 }
 /*

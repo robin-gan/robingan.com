@@ -6,12 +6,11 @@ abbr {
 #projectDesPage{
     position: absolute;
     top: 145px;
-    left:5px;
-    width:calc(100% - 15px);
+    left:0;
+    width:100%;
     height:calc(100% - 155px);
     background-color: var(--darkBackgroundGray);
     border-radius: 5px;
-    border: 3px solid #aaa;
     z-index:6;
     overflow-y: scroll;
 }
@@ -453,7 +452,7 @@ ul li a:link, ul li a:visited{
 
 @media (max-width:720px) {
     #projectDesPage-content{
-        width:calc(100% - 20px);
+        width: calc(100% - 20px);
         left:10px;
     }
 }
@@ -461,10 +460,9 @@ ul li a:link, ul li a:visited{
 @media (max-width:439px) {
     #projectDesPage{
         top: calc(31vw + 15px);
-        left:5px;
-        width:calc(100% - 15px);
+        left:0;
+        width:100%;
         height:calc(100% - 31vw - 12px);
-        background-color: var(--mainWhite);
         border-radius: 5px;
     }
     #projectDesPage-menu{
@@ -508,6 +506,6 @@ ul li a:link, ul li a:visited{
 @media (max-height:1000px) {
     #projectDesPage{
         top:0px;
-        height:calc(100% - 10px);
+        height:100%;
     }
 }

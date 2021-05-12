@@ -12,9 +12,9 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
 -->
 <html>
   <head>
-    <title>HOME|Robin Gan--甘翔羽 &raquo; Robingan.org</title>
+    <title>HOME | Robin Gan--甘翔羽 &raquo; Robingan.org</title>
     <meta charset="UTF-8"/>
-    <meta property="og:title" content="HOME|Robin Gan--甘翔羽 &raquo; Robingan.org" />
+    <meta property="og:title" content="HOME | Robin Gan--甘翔羽 &raquo; Robingan.org" />
     <meta name="description" content="Robin Gan's home--甘翔羽 I'm a web developer, a robotics software director, a YouTuber, a guitar player, a singer, a cool rapper, and love to freestyle in different languages."/>
     <meta property="og:description" content="Robin Gan's home--甘翔羽 I'm a web developer, a robotics software director, a YouTuber, a guitar player, a singer, a cool rapper, and love to freestyle in different languages." />
     <?php include 'component/headerInfo.php'?>

@@ -29,7 +29,7 @@ function loadMedia() {
 }
 
 function resetTitleAndDescription() {
-    document.title = 'Media|Robin Gan';
+    document.title = 'Media | Robin Gan';
     document.querySelector('[name="description"]').content = "Robin Gan's media --甘翔羽 " + headerOG;
     document.getElementById('projectDesPage').innerHTML = `
     <a onclick="closeDes()" id="close_cross_new" class="btn">
@@ -79,7 +79,7 @@ function loadProjectDes(id) {
             </div>
             `;
 
-            document.title = title_ + ' Media|Robin Gan';
+            document.title = title_ + ' Media | Robin Gan';
             document.querySelector('[name="description"]').content = title_ + " - Robin Gan's media --甘翔羽 " + headerOG;
             document.getElementById('projectDesPage').innerHTML = output;
             links();
@@ -137,7 +137,7 @@ const app = {
                             document.getElementById('content').classList.add('contentDisappear');
                             document.getElementById('projectDesPage').classList.remove('projectPageAppear');
 
-                            document.title = newhash + 'Media|Robin Gan';
+                            document.title = newhash + 'Media | Robin Gan';
                             document.querySelector('[name="description"]').content = newhash + " - Robin Gan's media --甘翔羽 " + headerOG;
                             loadProjectDes(newhash);
                         }
