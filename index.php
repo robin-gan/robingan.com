@@ -108,7 +108,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
             </div>
         </div>
 
-        <div id="blog" style="top: 20vw; left: 13%;">
+        <div id="blog">
             <!--Bio-->
             <div id="container-blog-bio">
                 <ul id="blog-icon">

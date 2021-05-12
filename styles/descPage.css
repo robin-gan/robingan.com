@@ -158,7 +158,7 @@ abbr {
 
 .desContentFormat pre {
     padding: 10px;
-    background-color: #eee;
+    background-color: var(--mainWhite);
     border-radius: 10px;
     overflow: hidden;
     color: #333;
@@ -176,6 +176,7 @@ abbr {
     border-radius: 3px;
     padding: 2px 4px;
     white-space: nowrap;
+    color: black;
 }
 
 .desContentFormat pre code {
@@ -360,7 +361,7 @@ ul li a:link, ul li a:visited{
     padding: 3px 15px;
     border: 1px solid #777;
     text-align: center;
-    background-color: #eee;
+    background-color: var(--mainWhite);
     padding: 0 5px;
     position: static;
 }
@@ -402,7 +403,7 @@ ul li a:link, ul li a:visited{
     background-image: url(/images/icon/secondplace.png);
     background-position: center 15px;
     background-repeat: no-repeat;
-    background-color: #eee;
+    background-color: var(--mainWhite);
     padding-top: 24px;
 }
 .ourTeam{

@@ -5,5 +5,5 @@
 
 .indexFolded::after{
     transform: translate(0, 0) skew(0deg) scale(1, 0.9)!important; 
-    color:white!important;
+    color:var(--mainWhite)!important;
 }
