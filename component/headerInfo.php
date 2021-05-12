@@ -4,16 +4,16 @@
     <meta name="author" content="Robin Gan"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:type" content="article" />
-    <meta property="og:image" content="https://robingan.org/images/favicon/logo-500x500.png" />
-    <meta property="og:image:secure_url" content="https://robingan.org/images/favicon/logo-500x500.png">
-    <meta property="article:author" content="https://robingan.org"/>
+    <meta property="og:image" content="https://robingan.com/images/favicon/logo-500x500.png" />
+    <meta property="og:image:secure_url" content="https://robingan.com/images/favicon/logo-500x500.png">
+    <meta property="article:author" content="https://robingan.com"/>
     <link rel="payment" href="https://patreon.com/robingan7" title="Support my Patreon (robingan)" />
-    <link rel="canonical" href="https://Robingan.org/" />
-    <meta property="og:url" content="https://Robingan.org/" />
+    <link rel="canonical" href="https://Robingan.com/" />
+    <meta property="og:url" content="https://Robingan.com/" />
     <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/logo-apple-icon.png"/>
     <link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#caac3d"/>
-    <meta name="apple-mobile-web-app-title" content="Robingan.org"/>
-    <meta name="application-name" content="Robingan.org"/>
+    <meta name="apple-mobile-web-app-title" content="Robingan.com"/>
+    <meta name="application-name" content="Robingan.com"/>
     <meta name="theme-color" content="#92999d"/>
     <meta name="twitter:card" content="summary_large_image/">
     <meta name="twitter:url" value="https://twitter.com/XiangyuGan"/>
