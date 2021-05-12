@@ -65,7 +65,6 @@
     top:150px;
     left:calc((100% - 900px) / 2);
     z-index:5;
-    background-color: var(--mainWhite);
     border-radius: 5px;
     padding: 0 10px;
 }
@@ -84,7 +83,7 @@
 }
 
 #content h3{
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid var(--mainWhite);
 }
 
 small{

@@ -67,11 +67,11 @@
             transition: all .3s ease-in-out;
         }
         li a {
-            color: white;
+            color: var(--mainWhite);
             margin-left: 3px;
         }
         li > i {
-            color: white;
+            color: var(--mainWhite);
         }
         .column-wrap a {
             color: #5c34c2;

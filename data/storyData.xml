@@ -29,8 +29,8 @@
             <![CDATA[
                 <h3>My Childhood</h3>
                 <div class="timeline_icons" id="icons_2004-2014">
-                    <i class="fas fa-hand-point-down" val="2015"></i>
-                    <i class="fas fa-window-close timeline_icon_close"></i>
+                    <i class="fas fa-chevron-down" val="2015"></i>
+                    <i class="fas fa-times"></i>
                 </div>
                 <img src="/images/story/2004-2014/selfe_with_LouDog.jpg"/>
                 <img src="/images/story/2004-2014/basketball_with_yangdoucheng.png"/>
@@ -67,15 +67,15 @@
             <![CDATA[
                 <h3>Summer</h3>
                 <div class="timeline_icons" id="icons_2015">
-                    <i class="fas fa-hand-point-up" val="2004-2014"></i>
-                    <i class="fas fa-hand-point-down" val="2016"></i>
-                    <i class="fas fa-window-close timeline_icon_close"></i>
+                    <i class="fas fa-chevron-up" val="2004-2014"></i>
+                    <i class="fas fa-chevron-down" val="2016"></i>
+                    <i class="fas fa-times"></i>
                 </div>
                 <img src="/images/story/2015/eating_with_canavas2.jpg"/>
                 <img src="/images/story/2015/eating_with_canavas.jpg"/>
 
                 <p>
-                    I_started junior high in 2015. But before, I had a really nice summer camp in the US. I also met my first host family(the Canavans). It's the first I went to an American school. It's also the first I learned about God. It was a really fun experience. But I didn't know any English at that time, so I didn't communicate with people that much. I did improve my English anyway.
+                    I started junior high in 2015. But before, I had a really nice summer camp in the US. I also met my first host family(the Canavans). It's the first I went to an American school. It's also the first I learned about God. It was a really fun experience. But I didn't know any English at that time, so I didn't communicate with people that much. I did improve my English anyway.
                 </p>
                 
                 <h3>7th Grade Year</h3>
@@ -106,9 +106,9 @@
             <![CDATA[
                 <h3>Summer</h3>
                 <div class="timeline_icons" id="icons_2016">
-                    <i class="fas fa-hand-point-up" val="2015"></i>
-                    <i class="fas fa-hand-point-down" val="2017"></i>
-                    <i class="fas fa-window-close timeline_icon_close"></i>
+                    <i class="fas fa-chevron-up" val="2015"></i>
+                    <i class="fas fa-chevron-down" val="2017"></i>
+                    <i class="fas fa-times"></i>
                 </div>
                 <img src="/images/story/2016/eating_with_jeric.jpg"/>
                 <img src="/images/story/2016/with_rogers.jpeg"/>
@@ -145,9 +145,9 @@
             <![CDATA[
                 <h3>Summer</h3>
                 <div class="timeline_icons" id="icons_2017">
-                    <i class="fas fa-hand-point-up" val="2016"></i>
-                    <i class="fas fa-hand-point-down" val="2018"></i>
-                    <i class="fas fa-window-close timeline_icon_close"></i>
+                    <i class="fas fa-chevron-up" val="2016"></i>
+                    <i class="fas fa-chevron-down" val="2018"></i>
+                    <i class="fas fa-times"></i>
                 </div>
                 <img src="/images/story/2017/wanda_square_with_class24.jpg"/>
                 <img src="/images/story/2017/selfe_taxes.png"/>
@@ -184,9 +184,9 @@
             <![CDATA[
                 <h3>Summer</h3>
                 <div class="timeline_icons" id="icons_2018">
-                    <i class="fas fa-hand-point-up" val="2017"></i>
-                    <i class="fas fa-hand-point-down" val="2019"></i>
-                    <i class="fas fa-window-close timeline_icon_close"></i>
+                    <i class="fas fa-chevron-up" val="2017"></i>
+                    <i class="fas fa-chevron-down" val="2019"></i>
+                    <i class="fas fa-times"></i>
                 </div>
                 <img src="/images/story/2018/hushang_with_myfamily.png"/>
                 <img src="/images/story/2018/zhangjiajie_with_myfamily.jpeg"/>
@@ -223,8 +223,8 @@
             <![CDATA[
                 <h3></h3>
                 <div class="timeline_icons" id="icons_2019">
-                    <i class="fas fa-hand-point-up" val="2018"></i>
-                    <i class="fas fa-window-close timeline_icon_close"></i>
+                    <i class="fas fa-chevron-up" val="2018"></i>
+                    <i class="fas fa-times"></i>
                 </div>
                 
                 <p>

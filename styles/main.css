@@ -6,10 +6,9 @@
     --liGray:#b1b1b1;
     --lightGray:#d3cfcc;
 
-    --white_used_in_btnHover:#E5E6F1;
-    --mainWhite:white;
+    --mainWhite:#f0f6fc;
 
-    --mainGold: #f3d155;
+    --mainGold: #7ed1ce;
     --darkGoldDesLink: #a48207;
     --darkGoldDesLinkHover: #514107;
 }
@@ -44,6 +43,10 @@ strong, b{
 
 .icons{
     font-size:2.3px;
+}
+
+h2, h3, h4, h5, p, li{
+    color: var(--mainWhite);
 }
 /*
 ::-webkit-scrollbar {

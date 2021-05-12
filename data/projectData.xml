@@ -250,7 +250,7 @@
             ]]>
         </column>
         <date>2019.10</date>
-        <column name="des">real time app to check the schedules and lunch</column>
+        <column name="des">a real time app to check the schedules and lunch</column>
         <column name="img">seeyourschedule.com.png</column>
         <column name="type">Website</column>
         <column name="time">2019</column>

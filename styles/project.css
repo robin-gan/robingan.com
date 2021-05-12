@@ -94,6 +94,7 @@
 }
 
 .firstinfo .profileinfo h2 {
+    color: black;
     font-size: 26px;
     margin-block-start: 0;
     margin-block-end: 0;
@@ -106,7 +107,7 @@
 
 .firstinfo .profileinfo h3 {
     font-size: 17px;
-    color: var(--mainGold);
+    color: var(--darkGoldDesLink);
     font-style: italic;
     margin-block-start: 0;
     margin-block-end: 0;

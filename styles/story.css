@@ -7,7 +7,7 @@ h3,h2{
 }
 
 #xmlLink{
-    color:black;
+    color:#aaa;
 }
 /*xml icon*/
 #xml{
@@ -18,7 +18,7 @@ h3,h2{
     transition: var(--transitionTime);
 }
 #xml:hover{
-    color:var(--white_used_in_btnHover);
+    color:var(--mainWhite);
 }
 /*time line*/
 .container {
@@ -27,8 +27,8 @@ h3,h2{
     font-size:14px;
 }
 .specialLink{
-    border-left: 2px solid rgba(0, 0, 0, 0.3);
-    color: rgba(0, 0, 0, 0.7);
+    border-left: 2px solid var(--mainWhite);
+    color: #aaa;
 }
 .timeline-item {
     position: relative;
@@ -36,7 +36,7 @@ h3,h2{
     border: 2px solid black !important;
     text-decoration: none;
     font-size: 22px;
-    background: var(--white_used_in_btnHover);
+    background: var(--mainWhite);
     text-align: left;
     padding-left: 20px;
     transform: rotate(0deg) skew(6deg) translate(0, 0);
@@ -52,18 +52,15 @@ h3,h2{
     font-size:26px;
     margin-block-start: 0;
     cursor: pointer;
+    color: black;
 }
 .timeline-item .innerContent h3{
     border-bottom: 2px solid black;
     cursor: auto;
     margin-bottom: 5px;
+    color: black;
 }
 /*3d aniamtion after*/
-.timeline-item:hover {
-    background-color:var(--mainWhite);
-    transform: rotate(0deg) skew(0deg) translate(0, 0) scale(1.02);
-}
-
 .timeline-item p{
     color: black;
     font-size: 17px;

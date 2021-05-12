@@ -42,11 +42,11 @@ function getCurrentPage(ev){
             result = ev.target.parentElement.parentElement.children[0].innerHTML;
         }
         target = ev.target.parentElement;
-    } else if (ev.target.classList.contains('timeline_icon_close')){
+    } else if (ev.target.classList.contains('fa-times')){
         result = "close"
         target = ev.target.parentElement;
-    } else if (ev.target.classList.contains('fa-hand-point-down') 
-            || ev.target.classList.contains('fa-hand-point-up')) {
+    } else if (ev.target.classList.contains('fa-chevron-down') 
+            || ev.target.classList.contains('fa-chevron-up')) {
         result = "change"
         target = ev.target.parentElement;
         changeYear = ev.target.attributes[1].nodeValue;
