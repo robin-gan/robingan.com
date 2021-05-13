@@ -144,34 +144,15 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
           <li>Lead Programmer & President for 3 years</li>
           <li>Workshops on website programming and basic CS concepts for beginners</li>
         </ul>
-
-        <h4><a href="">CNK Hiphop Club</a> &mdash; Rapper & Beat Maker & Producer<span>2019 - 2021</span></h4>
-        <ul>
-          <li>Vice President for 2 years, build <a href="">club website</a> & my own <a href="https://robingan.org/music">music page</a>.</li>
-          <li>Made a diss track to a Chinese TV show in 1 day, and got <abbr>1000+</abbr> views totally in <abbr>3</abbr> days.</li>
-        </ul>
-
-        <h4><a href="https://summer.stanford.edu/program/silicon-valley-innovation-academy">SVIA</a> &mdash; Moonshot Designer<span>Summer 2019</span></h4>
-        <ul>
-            <li>Future waste management.</li>
-        </ul>
     </section>
 
 	<section id="right">
-    <h3>Contact Info</h3>
-    <ul>
-      <li>Website: <a href="https://robingan.org/">https://robingan.org</a></li>
-      <li>Email: <a href="mailto:">robinganmusic@gmail.com</a></li>
-      <li>Social media: <a href="https://www.youtube.com/channel/UCjCP4U38X4g9HG1onRKJxlA">Youtube</a> &middot; <a href="https://www.instagram.com/robingan7">IG</a></li>
-    </ul>
-
     <h3>Skills</h3>
     <ul>
       <li>Angular.js, React.js, PHP, Node.js</li>
       <li>HTML, JavaScript, CSS</li>
       <li>MongoDB, SQL</li>
       <li>Python, Java</li>
-      <li>I'm a quicker learner. I taught myself the skills by using online resources. </li>
     </ul>
 
     <h3 class="sectionBreaker">Awards</h3>
@@ -226,18 +207,6 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
     <ul>
       <li>Teach students basic concepts in <abbr>python</abbr></li>
       <li>Stopped because concepts overlapped with many other videos</li>
-    </ul>
-
-    <h3>Languages</h3>
-    <h4>Chinese</h4>
-    <p>Proficient, my first language</p>
-
-    <h3>I'm also a ...</h3>
-    <ul>
-      <li>rapper</li>
-      <li>guitar player</li>
-      <li>youtuber</li>
-      <li>comedy fan</li>
     </ul>
 
   </section>
