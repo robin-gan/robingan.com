@@ -29,7 +29,7 @@ function editLoop(obj){
         var audio = document.getElementById('mockPlayer');
         if (loop) {
             loop = false;
-            obj.style.color = '#92999d';
+            obj.style.color = '#31afee';
             audio.removeAttribute('loop');
         } else {
             loop = true;

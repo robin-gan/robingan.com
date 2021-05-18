@@ -15,8 +15,8 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
     <title>Media | Robin Gan--甘翔羽 &raquo; Robingan.com</title>
     <meta charset="UTF-8"/>
     <meta property="og:title" content="Media | Robin Gan--甘翔羽 &raquo; Robingan.com" />
-    <meta name="description" content="Robin Gan's media --甘翔羽 I'm a web developer, a robotics software director, a YouTuber, a guitar player, a singer, a cool rapper, and love to freestyle in different languages."/>
-    <meta property="og:description" content="Robin Gan's media --甘翔羽 I'm a web developer, a robotics software director, a YouTuber, a guitar player, a singer, a cool rapper, and love to freestyle in different languages."/>
+    <meta name="description" content="Robin Gan's media --甘翔羽 Welcome to my portfolio page"/>
+    <meta property="og:description" content="Robin Gan's media --甘翔羽 Welcome to my portfolio page"/>
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/component/headerInfo.php' ); ?>
     <link rel="stylesheet" href="/styles/main.css"/>
     <link rel="stylesheet" href="/styles/descPage.css?<?php echo time(); ?>"/>

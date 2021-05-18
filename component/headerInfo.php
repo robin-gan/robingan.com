@@ -4,23 +4,23 @@
     <meta name="author" content="Robin Gan"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:type" content="article" />
-    <meta property="og:image" content="https://robingan.com/images/favicon/logo-500x500.png" />
-    <meta property="og:image:secure_url" content="https://robingan.com/images/favicon/logo-500x500.png">
-    <meta property="article:author" content="https://robingan.com"/>
+    <meta property="og:image" content="http://robingan.com/images/favicon/logo-500x500.png" />
+    <meta property="og:image:secure_url" content="http://robingan.com/images/favicon/logo-500x500.png">
+    <meta property="article:author" content="http://robingan.com"/>
     <link rel="payment" href="https://patreon.com/robingan7" title="Support my Patreon (robingan)" />
-    <link rel="canonical" href="https://Robingan.com/" />
-    <meta property="og:url" content="https://Robingan.com/" />
+    <link rel="canonical" href="http://robingan.com/" />
+    <meta property="og:url" content="http://robingan.com/" />
     <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/logo-apple-icon.png"/>
     <link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#caac3d"/>
     <meta name="apple-mobile-web-app-title" content="Robingan.com"/>
     <meta name="application-name" content="Robingan.com"/>
-    <meta name="theme-color" content="#92999d"/>
+    <meta name="theme-color" content="#31afee"/>
     <meta name="twitter:card" content="summary_large_image/">
-    <meta name="twitter:url" value="https://twitter.com/XiangyuGan"/>
+    <meta name="twitter:url" value="https://twitter.com/robin_gan_"/>
     <meta name="twitter:label1" value="Birthday"/>
     <meta name="twitter:data1" value="February 13th, 2003"/>
     <meta name="twitter:label2" value="More info"/>
-    <meta name="twitter:data2" value="on twitter.com/XiangyuGan"/>
+    <meta name="twitter:data2" value="on twitter.com/robin_gan_"/>
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/logo-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/logo-16x16.png">
     <style>img[alt="www.000webhost.com"]{display:none;}</style>

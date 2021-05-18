@@ -38,4 +38,4 @@ var thanksForReadingParts = {
 }
 var thanksForReadingBlock = thanksForReadingParts.part1 + thanksForReadingParts.part2 + thanksForReadingParts.part3;
 
-var headerOG = `I'm a web developer, a robotics software director, a YouTuber, a guitar player, a singer, a cool rapper, and love to freestyle in different languages.`;
+var headerOG = `Welcome to my portfolio page`;
