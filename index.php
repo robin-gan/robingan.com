@@ -112,7 +112,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
             <div id="container-blog-bio">
                 <ul id="blog-icon">
                     <li>
-                        <a href="">
+                        <a>
                         <i class="fas fa-smile-wink"></i>
                         <h2 class="disappreadWhenHeightIsLow">Welcome</h2>
                         <span class="blog-icon-title">Welcome</span>

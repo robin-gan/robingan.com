@@ -16,7 +16,7 @@
     background: var(--mainGold);
     z-index:19;
     transition: 0s;
-    color: var(--mainWhite);
+    color: white;
     display: none;
 }
 
