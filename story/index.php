@@ -35,14 +35,14 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/component/menu.php' ); ?>
 <a href="/data/storyData.xml" id="xmlLink"><i class="fas fa-rss" id="xml"></i></a>
 
-<div class="container">
+<!--<div class="container">
 	<div class="timeline-item" date-is='2003'>
 		<h2>Data is still loading</h2>
 		<p>
 			Ready for my story
     </p>
   </div>
-</div>
+</div>-->
 
 <div class="timeline-item active" id="mock" style="display:none" date-is='2003'>
 	<h2>mock</h2>

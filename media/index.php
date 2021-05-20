@@ -36,7 +36,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
   
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/component/menu.php' ); ?>
 
-<div id="content">
+<!--<div id="content">
 
   <div class="content-blog">
     <a href="#">
@@ -45,7 +45,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
     <p>2019.9</p>
     </a>
   </div>  
-</div>
+</div>-->
 <!--project des page
 class="projectPageAppear"-->
 <div id="projectDesPage" class="desContentFormat projectPageAppear">
