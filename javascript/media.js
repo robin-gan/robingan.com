@@ -71,8 +71,8 @@ function loadProjectDes(id) {
                 <span>&#10005;</div>
             </a>
 
-            <h2 id="projectDesPage-title" date="By Robin Gan &nbsp;&bull; &nbsp;`+ date_ +`&nbsp; &bull; &nbsp;` + formatView(currentView) + ` views">` + title_ + `</h2>
-            
+            <!--<h2 id="projectDesPage-title" date="By Robin Gan &nbsp;&bull; &nbsp;`+ date_ + `&nbsp; &bull; &nbsp;` + formatView(currentView) + ` views">` + title_ + `</h2>-->
+            <h2 id="projectDesPage-title">` + title_ + `</h2>
             <div id="projectDesPage-content">
 
                 `+ content_ + thanksForReadingBlock +`

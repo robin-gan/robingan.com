@@ -165,7 +165,7 @@ function openNew() {
 
 function filterLinks2(link) {
     if(link == 'localhost' || link == '') {
-        return 'robingan.org';
+        return 'robingan.com';
     }
 
     if(link.split(':').includes('mailto')) {
@@ -190,31 +190,32 @@ function filterLinks(llink) {
 }
 
 function links() {
+    if(!isMobile()) {
+        let links = document.getElementsByTagName('A');
+        
+        for(let i=0; i<links.length;i++) {
+            links[i].addEventListener('mousemove', (e)=> {
+                let back = hasLink(e.target);
+                let mit = document.getElementById('mit');
 
-    let links = document.getElementsByTagName('A');
-    
-    for(let i=0; i<links.length;i++) {
-        links[i].addEventListener('mousemove', (e)=> {
-            let back = hasLink(e.target);
+                if(back[0]) {
+                    mit.style.top = e.clientY-mit.clientHeight-1 + 'px';
+                    mit.style.left = e.clientX+1 + 'px';
+                    mit.innerText = filterLinks(back[1]);
+                }
+            });
+        }
+        
+        window.addEventListener('mouseover', (e)=> {
             let mit = document.getElementById('mit');
-
-            if(back[0]) {
-                mit.style.top = e.clientY-mit.clientHeight-1 + 'px';
-                mit.style.left = e.clientX+1 + 'px';
-                mit.innerText = filterLinks(back[1]);
+        
+            if(hasLink(e.target)[0]) {
+                mit.style.display = 'inline';
+            } else {
+                mit.style.display = 'none';
             }
         });
     }
-    
-    window.addEventListener('mouseover', (e)=> {
-        let mit = document.getElementById('mit');
-    
-        if(hasLink(e.target)[0]) {
-            mit.style.display = 'inline';
-        } else {
-            mit.style.display = 'none';
-        }
-    });
 }
 
 function hasLinkParent(ele) {

@@ -97,7 +97,8 @@ function loadProjectDes(id, scroll=true){
                         <span>&#10005;</span>
                     </a>
 
-                    <h2 id="projectDesPage-title" date="By Robin Gan &nbsp;&bull; &nbsp;`+ date_ + `&nbsp; &bull; &nbsp;` + formatView(currentView) + ` views">` + title_ + `</h2>
+                    <!--<h2 id="projectDesPage-title" date="By Robin Gan &nbsp;&bull; &nbsp;`+ date_ + `&nbsp; &bull; &nbsp;` + formatView(currentView) + ` views">` + title_ + `</h2>-->
+                    <h2 id="projectDesPage-title">` + title_ + `</h2>
                     <ul id="projectDesPage-menu" >
                         `+ link_ + `
                     </ul>

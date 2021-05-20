@@ -467,8 +467,8 @@ ul li a:link, ul li a:visited{
         border-radius: 5px;
     }
     #projectDesPage-menu{
-        width:100%;
-        margin-left:0;
+        width:85%;
+        margin-left: 7.5%;
     }
 
     #projectDesPage-menu > li > ul{
