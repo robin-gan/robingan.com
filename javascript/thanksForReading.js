@@ -6,9 +6,7 @@ var thanksForReadingParts = {
                     <a class="rcc_link" href="/data/projectData.xml"><i class="fas fa-rss"></i></a>
                 </h4>
                 <p>
-                    <a class="thanksForReadingFormat-img" href="https://www.youtube.com/channel/UCjCP4U38X4g9HG1onRKJxlA">
-                        <img src="/images/coo.png" alt="avator" width="250px">
-                    </a>
+                    
                 </p>
     `,
     part2:`
