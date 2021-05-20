@@ -15,6 +15,7 @@
 body {
     background-color:var(--darkBackgroundGray); /*var(--darkBackgroundGray);*/
     overflow-x: hidden;
+    padding-bottom: 40px;
 }
 
 @media (max-width:666px) {

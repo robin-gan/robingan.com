@@ -41,7 +41,7 @@
                     <i class="fas fa-tools"></i>
                     </div>
                     <div class="project-name">
-                    <p>Project</p>
+                    <p>PROJS</p>
                     </div>
                 </div>
             </a>   
