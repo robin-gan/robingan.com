@@ -477,11 +477,6 @@ ul li a:link, ul li a:visited{
     }
 
     #projectDesPage-menu > li > ul > li{
-        height:20px;
-        line-height: 20px;
-    }
-
-    #projectDesPage-menu > li > ul > li{
         width:80px;
     }
     .desContentFormat img, iframe, object, embed, audio, video{
