@@ -34,7 +34,6 @@ function loadProject() {
                             <div class="firstinfo"><img src="../images/projects/avatar/`+img+`"/>
                             <div class="profileinfo">
                                 <h2>`+title+`</h2>
-                                <h3>`+date+`</h3>
                                 <p class="bio">`+des+`</p>
                             </div>
                             </div>
@@ -98,7 +97,7 @@ function loadProjectDes(id, scroll=true){
                     </a>
 
                     <!--<h2 id="projectDesPage-title" date="By Robin Gan &nbsp;&bull; &nbsp;`+ date_ + `&nbsp; &bull; &nbsp;` + formatView(currentView) + ` views">` + title_ + `</h2>-->
-                    <h2 id="projectDesPage-title">` + title_ + `</h2>
+                    <h2 id="projectDesPage-title" date="`+date_+`">` + title_ + `</h2>
                     <ul id="projectDesPage-menu" >
                         `+ link_ + `
                     </ul>
