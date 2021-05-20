@@ -86,5 +86,25 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
     </div>
     <!--modal_cover-->
     <div id="modal_cover" style="display:none;"></div>
+
+    <!--bottom menu-->
+    <nav class="nav" id="bottomMenu">
+        <a href="/" class="nav__link">
+            <i class="fas fa-registered nav__icon"></i>
+            <span class="nav__text">Home</span>
+        </a>
+        <a href="/project" class="nav__link nav__link--active">
+            <i class="fas fa-tools nav__icon"></i>
+            <span class="nav__text">Projects</span>
+        </a>
+        <a class="nav__link items-disable">
+            <i class="fas fa-blog nav__icon"></i>
+            <span class="nav__text">Blogs</span>
+        </a>
+        <a class="nav__link items-disable">
+            <i class="fas fa-map nav__icon"></i>
+            <span class="nav__text">Story</span>
+        </a>
+    </nav>
 </body>
 </html>

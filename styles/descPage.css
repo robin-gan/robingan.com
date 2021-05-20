@@ -158,7 +158,7 @@ abbr {
 
 .desContentFormat pre {
     padding: 10px;
-    background-color: var(--mainWhite);
+    background-color: rgb(241, 241, 241);
     border-radius: 10px;
     overflow: hidden;
     color: #333;

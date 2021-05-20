@@ -45,7 +45,7 @@ function loadProject() {
                 output += `
                     <li>
                         <a href="project#`+id+`">
-                            <i class="fas fa-project-diagram"></i>
+                            <i class="fas fa-tools"></i>
                             <h2 class="longTitle">`+ title+`</h2>
                             <p>`+ date+`</p>
                         </a>

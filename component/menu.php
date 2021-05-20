@@ -24,40 +24,30 @@
     <!--nav big-->
     <div id="large-id">
         <div class="nav_container" id="navvv" style="width: 150px; right: 10%;">
-            <a href="/story">
+            <a href="/">
                 <div class="items">
                     <div class="icon-wrapper">
-                    <i class="fas fa-book-open"></i>
+                        <i class="fas fa-registered"></i>
                     </div>
                     <div class="project-name">
-                    <p>Story</p>
+                    <p>HOME</p>
                     </div>
-                </div>
+                </div> 
             </a>
+
             <a href="/project">
                 <div class="items">
                     <div class="icon-wrapper">
-                    <i class="fas fa-project-diagram"></i>
+                    <i class="fas fa-tools"></i>
                     </div>
                     <div class="project-name">
                     <p>Project</p>
                     </div>
                 </div>
-            </a>
-
-            <a href="https://www.tiktok.com/@robin.gan">
-                <div class="items">
-                    <div class="icon-wrapper">
-                        <i class="fab fa-tiktok"></i>
-                    </div>
-                    <div class="project-name">
-                    <p>TikTok</p>
-                    </div>
-                </div> 
-            </a>
+            </a>   
             
-            <a href="/media">
-                <div class="items">
+            <a>
+                <div class="items items-disable">
                     <div class="icon-wrapper">
                     <i class="fas fa-blog"></i>
                     </div>
@@ -66,63 +56,15 @@
                     </div>
                 </div> 
             </a>
-        </div>
-    </div>
-
-    <!--bar menu-->
-    <div id="webapp_cover">
-        <div id="menu_button">
-            <input type="checkbox" id="menu_checkbox">
-            <label for="menu_checkbox" id="menu_label">
-            <div id="menu_text_bar"></div>
-            </label>
-        </div>
-    </div>
-
-    <!--menu nav bar-->
-    <div id="large-id-2" style="display:none;">
-        <div class="barNav">
-            <a href="/story">
-                <div class="items">
+            <a>
+                <div class="items items-disable">
                     <div class="icon-wrapper">
-                    <i class="fas fa-book-open"></i>
+                    <i class="fas fa-map"></i>
                     </div>
                     <div class="project-name">
                     <p>Story</p>
                     </div>
                 </div>
-            </a>
-            <a href="/project">
-                <div class="items">
-                    <div class="icon-wrapper">
-                    <i class="fas fa-project-diagram"></i>
-                    </div>
-                    <div class="project-name">
-                    <p>Project</p>
-                    </div>
-                </div>
-            </a>
-
-            <a href="https://www.tiktok.com/@robin.gan">
-                <div class="items">
-                    <div class="icon-wrapper">
-                        <i class="fab fa-tiktok"></i>
-                    </div>
-                    <div class="project-name">
-                    <p>TikTok</p>
-                    </div>
-                </div> 
-            </a>
-            
-            <a href="/media">
-                <div class="items">
-                    <div class="icon-wrapper">
-                    <i class="fas fa-blog"></i>
-                    </div>
-                    <div class="project-name">
-                    <p>Blogs</p>
-                    </div>
-                </div> 
             </a>
         </div>
     </div>

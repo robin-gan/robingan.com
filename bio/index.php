@@ -91,7 +91,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
             <ul id="current-project">
                 <li>
                     <a href="#">
-                    <i class="fas fa-project-diagram"></i>
+                    <i class="fas fa-tools"></i>
                     <h2>Data Loading</h2>
                     <p>2019.9</p>
                     </a>

@@ -17,6 +17,12 @@ body {
     overflow-x: hidden;
 }
 
+@media (max-width:666px) {
+    body {
+        padding-bottom: 100px;
+    }
+}
+
 * {
     -webkit-overflow-scrolling: touch;
     transition:var(--transitionTime);

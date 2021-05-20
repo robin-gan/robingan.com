@@ -62,40 +62,29 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
         
         <div id="large-id">
             <div class="container" id="navvv" style="width: 150px; right: 10%;">
-                <a href="story">
+                <a href="/">
                     <div class="items">
                         <div class="icon-wrapper">
-                        <i class="fas fa-book-open"></i>
+                        <i class="fas fa-registered"></i>
                         </div>
                         <div class="project-name">
-                        <p>Story</p>
+                        <p>HOME</p>
                         </div>
                     </div>
                 </a>
                 <a href="project">
                     <div class="items">
                         <div class="icon-wrapper">
-                        <i class="fas fa-project-diagram"></i>
+                        <i class="fas fa-tools"></i>
                         </div>
                         <div class="project-name">
-                        <p>Project</p>
+                        <p>Projects</p>
                         </div>
                     </div>
                 </a>
-
-                <a href="https://www.tiktok.com/@robin.gan">
-                    <div class="items">
-                        <div class="icon-wrapper">
-                        <i class="fab fa-tiktok"></i>
-                        </div>
-                        <div class="project-name">
-                        <p>TikTok</p>
-                        </div>
-                    </div> 
-                </a>
                 
-                <a href="media">
-                    <div class="items">
+                <a>
+                    <div class="items items-disable">
                         <div class="icon-wrapper">
                         <i class="fas fa-blog"></i>
                         </div>
@@ -104,6 +93,18 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
                         </div>
                     </div> 
                 </a>
+
+                <a>
+                    <div class="items items-disable">
+                        <div class="icon-wrapper">
+                        <i class="fas fa-map"></i>
+                        </div>
+                        <div class="project-name">
+                        <p>Story</p>
+                        </div>
+                    </div> 
+                </a>
+
             </div>
         </div>
 
@@ -111,79 +112,41 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
             <!--Bio-->
             <div id="container-blog-bio">
                 <ul id="blog-icon">
-                    <li>
+                    <!--<li>
                         <a>
                         <i class="fas fa-smile-wink"></i>
                         <h2 class="disappreadWhenHeightIsLow">Welcome</h2>
                         <span class="blog-icon-title">Welcome</span>
                         </a>
-                    </li>
+                    </li>-->
                 </ul>    
             </div>
             
         </div>    
 
-        <!--menu-->
-        <div id="webapp_cover">
-            <div id="menu_button">
-                <input type="checkbox" id="menu_checkbox">
-                <label for="menu_checkbox" id="menu_label">
-                <div id="menu_text_bar"></div>
-                </label>
-            </div>
-        </div>
-
-        <!--menu nav bar-->
-        <div id="large-id-2" style="display:none;">
-            <div class="barNav">
-                <a href="story">
-                    <div class="items">
-                        <div class="icon-wrapper">
-                        <i class="fas fa-book-open"></i>
-                        </div>
-                        <div class="project-name">
-                        <p>Story</p>
-                        </div>
-                    </div>
-                </a>
-                <a href="project">
-                    <div class="items">
-                        <div class="icon-wrapper">
-                        <i class="fas fa-project-diagram"></i>
-                        </div>
-                        <div class="project-name">
-                        <p>Project</p>
-                        </div>
-                    </div>
-                </a>
-
-                <a href="https://www.tiktok.com/@robin.gan">
-                    <div class="items">
-                        <div class="icon-wrapper">
-                        <i class="fab fa-tiktok"></i>
-                        </div>
-                        <div class="project-name">
-                        <p>TikTok</p>
-                        </div>
-                    </div> 
-                </a>
-                
-                <a href="media">
-                    <div class="items">
-                        <div class="icon-wrapper">
-                        <i class="fas fa-blog"></i>
-                        </div>
-                        <div class="project-name">
-                        <p>Blogs</p>
-                        </div>
-                    </div> 
-                </a>
-            </div>
-        </div>
-
         <?php include 'component/newsAndCookie.php' ?>
     </div>
     <!--modal_cover-->
     <div id="modal_cover" style="display:none;"></div>
+
+    <!--bottom menu-->
+    <nav class="nav" id="bottomMenu">
+        <a href="/" class="nav__link nav__link--active">
+            <i class="fas fa-registered nav__icon"></i>
+            <span class="nav__text">Home</span>
+        </a>
+        <a href="/project" class="nav__link">
+            <i class="fas fa-tools nav__icon"></i>
+            <span class="nav__text">Projects</span>
+        </a>
+        <a class="nav__link items-disable">
+            <i class="fas fa-blog nav__icon"></i>
+            <span class="nav__text">Blogs</span>
+        </a>
+        <a class="nav__link items-disable">
+            <i class="fas fa-map nav__icon"></i>
+            <span class="nav__text">Story</span>
+        </a>
+    </nav>
 </body>
 </html>
