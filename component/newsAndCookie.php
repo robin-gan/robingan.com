@@ -60,7 +60,7 @@
                     I'm a programmer and rapper,
                 </p>
                 <ul>
-                    <li style="font-size:16px;">I make creative CS <a href="/project">projects</a>.</li>
+                    <li style="font-size:16px;">I make creative CS <a href="/projects">projects</a>.</li>
                     <li style="font-size:16px;">I write interesting <a href="/media">blogs</a></li>
                     <li style="font-size:16px;">I make fire <a href="/music">raps</a></li>
                     <li style="font-size:16px;">I record cool <a href="/story">stories</a></li>

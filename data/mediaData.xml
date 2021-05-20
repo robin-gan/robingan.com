@@ -81,7 +81,7 @@
                 <li><a href="/media/#FRC_LA_North_Regional_2019">FRC LA North Regional 2019</a></li>
                 <li><a href="/media/#FRC_Houston_Champ_2019">FRC Houston Champ 2019</a></li>
                 <li><a href="/media/#FRC_Season_2019">My first FRC season</a></li>
-                <li><a href="/project/#FRC_2019_Public">Official code explanation</a></li>
+                <li><a href="/projects/#FRC_2019_Public">Official code explanation</a></li>
             </ul>
             ]]>
         </content>
@@ -118,7 +118,7 @@
             <h3>What I achieved so far</h3>
             <p>I've been pushing updates on this <a href="https://github.com/robingan7/frc5805_2020CodeDemo">repo</a>, which will be our code for next year. Here is what I finished and learned so far, </p>
             <ul>
-                <li>Working multi-threading system that can do the same thing as the <a href="/project/#FRC_2019_Public">command base</a> structure from last year. </li>
+                <li>Working multi-threading system that can do the same thing as the <a href="/projects/#FRC_2019_Public">command base</a> structure from last year. </li>
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/VvD2QTrWiYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <li>Action class ready to go(not test yet)</li>
                 <li>Motion Profile ready to go(not test yet)</li>
@@ -601,8 +601,8 @@
 
             <h4>Scouting website we(frc5805) use</h4>
             <ul>
-                <li><p><strong>This year<span>2019</span>:</strong> <a href="http://u880691907-robingan-org.hostingerapp.com/">Scope</a> by <a href="/">me</a>. It's the first online Scouting App For All FRC Teams, also the <strong>most convenient and functional scouting website in FRC.</strong> Here is a detailed <a href="/project/#Scope">project description</a>.</p></li> 
-                <li><p><strong>Last year<span>2018</span>:</strong> <a href="https://frcscouting.000webhostapp.com">Big Yoshi Scout</a> by <a href="/">me</a>. It's the mother of <a href="/project/#Scope">Scope</a>. It has scouting forms that are specific for FRC competition 2019. It is easy to use and can analyze data, rank teams, make charts from data user scout. It saved lots of time from putting data in excel then sorting data. It worked very well in 2019 season in my team. Here is a detailed <a href="/project/#frcscouting.ga">project description</a>.</p></li> 
+                <li><p><strong>This year<span>2019</span>:</strong> <a href="http://u880691907-robingan-org.hostingerapp.com/">Scope</a> by <a href="/">me</a>. It's the first online Scouting App For All FRC Teams, also the <strong>most convenient and functional scouting website in FRC.</strong> Here is a detailed <a href="/projects/#Scope">project description</a>.</p></li> 
+                <li><p><strong>Last year<span>2018</span>:</strong> <a href="https://frcscouting.000webhostapp.com">Big Yoshi Scout</a> by <a href="/">me</a>. It's the mother of <a href="/projects/#Scope">Scope</a>. It has scouting forms that are specific for FRC competition 2019. It is easy to use and can analyze data, rank teams, make charts from data user scout. It saved lots of time from putting data in excel then sorting data. It worked very well in 2019 season in my team. Here is a detailed <a href="/projects/#frcscouting.ga">project description</a>.</p></li> 
             </ul>
             <h4>More resources on FRC scouting</h4>
             <ul>
@@ -746,7 +746,7 @@ document.getElementById('next-btn').click();</code> </pre> </figure>
                     </li>
 
                     <li>
-                        I explained more specifically on highlights of the code in this <a href="/project/#FRC5805_2019">project</a>.
+                        I explained more specifically on highlights of the code in this <a href="/projects/#FRC5805_2019">project</a>.
                     </li>
                 </ul>
 

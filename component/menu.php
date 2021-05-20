@@ -35,7 +35,7 @@
                 </div> 
             </a>
 
-            <a href="/project">
+            <a href="/projects">
                 <div class="items">
                     <div class="icon-wrapper">
                     <i class="fas fa-tools"></i>

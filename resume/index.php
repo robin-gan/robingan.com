@@ -119,13 +119,13 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
           <li>Aiming for autonomous awards in 2020.</li>
           <li>Using <abbr>pathfinder</abbr> and <abbr>pure pursuit</abbr> algorithms to build efficient robot auton motion.</li>
         </ul>
-        <h4><a href="/project/#Google_Science_Fair_2018">AI Trash Sorter</a> &mdash; Author<span>2018</span><span><a href="https://github.com/robingan7/TrashSort">code</a></span></h4>
+        <h4><a href="/projects/#Google_Science_Fair_2018">AI Trash Sorter</a> &mdash; Author<span>2018</span><span><a href="https://github.com/robingan7/TrashSort">code</a></span></h4>
         <ul>
           <li>using CNN to recognize recyclable and unrecyclable trash from images.</li>
           <li>Has an <abbr>98%</abbr> validation accuracy after trainig with <abbr>60,000</abbr> images from google.</li>
         </ul>
         
-        <h4><a href="/project/#FRC_2019_Public">FRC-2019 Public</a> &mdash; Author<span>2019</span><span><a href="https://github.com/robingan7/FRC-2019-Public">code</a></span></h4>
+        <h4><a href="/projects/#FRC_2019_Public">FRC-2019 Public</a> &mdash; Author<span>2019</span><span><a href="https://github.com/robingan7/FRC-2019-Public">code</a></span></h4>
         <ul>
           <li>Code for 2019 robot <a href="http://team5805.robingan.org/robots">Big Yoshi</a>.</li>
           <li>Using <abbr>PID control</abbr> for smooth arm motion and <abbr>limelight</abbr> library to line up with the feeder and rocket.</li>
@@ -196,7 +196,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
       <li>Give driver signal during FRC match.</li>
     </ul>
     
-    <h4><a href="/project/#Python_Space_Invader">Python Space Invader</a><span>2018</span><span><a href="https://github.com/robingan7/AP-CS/blob/master/pythongame.py">code</a></span></h4>
+    <h4><a href="/projects/#Python_Space_Invader">Python Space Invader</a><span>2018</span><span><a href="https://github.com/robingan7/AP-CS/blob/master/pythongame.py">code</a></span></h4>
     <ul>
       <li>a fun local game can be played simply by copying and running the code in <a href="https://jupyter.org/">jupyter notebook</a>.</li>
       <li>I wrote this game in one day just for fun and practicing with python graphics and UI.</li>

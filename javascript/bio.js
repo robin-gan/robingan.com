@@ -25,7 +25,7 @@ function loadProject() {
                 }
                 output += `
                     <li>
-                        <a href="/project#`+ id + `">
+                        <a href="/projects#`+ id + `">
                             <i class="fas fa-tools"></i>
                             <h2 class="longTitle">`+ title + `</h2>
                             <p>`+ date + `</p>

@@ -72,7 +72,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
                         </div>
                     </div>
                 </a>
-                <a href="project">
+                <a href="/projects">
                     <div class="items">
                         <div class="icon-wrapper">
                         <i class="fas fa-tools"></i>
@@ -135,7 +135,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
             <i class="fas fa-registered nav__icon"></i>
             <span class="nav__text">Home</span>
         </a>
-        <a href="/project" class="nav__link">
+        <a href="/projects" class="nav__link">
             <i class="fas fa-tools nav__icon"></i>
             <span class="nav__text">Projects</span>
         </a>

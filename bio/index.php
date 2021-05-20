@@ -64,7 +64,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
   </p>
 
   <p>
-    Here are other sites and write algorithms I built, a <a href="/project/#Google_Science_Fair_2018">AI Trash Sorter</a> using CNN to sort by scanning images, <a href="http://5805docs.robingan.org">FRC reference site</a> that helps FRC robotics programmers to find documentations and resources.  
+    Here are other sites and write algorithms I built, a <a href="/projects/#Google_Science_Fair_2018">AI Trash Sorter</a> using CNN to sort by scanning images, <a href="http://5805docs.robingan.org">FRC reference site</a> that helps FRC robotics programmers to find documentations and resources.  
   </p>
 
   <p>I also have a <a href="https://www.youtube.com/channel/UCjCP4U38X4g9HG1onRKJxlA">youtube channel</a>, where I post robotics and rap videos.
@@ -72,7 +72,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
   </p>
 
   <p>
-    I grew up in <a href="https://en.wikipedia.org/wiki/Mianyang">Mianyang</a>, <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a>, China. I was a kid who was curious about everything and always tried to be different, and this is what exactly I am now. I left my hometown for HS in California by myself when I was 14. I‘ve been teaching myself a lot about computer science, and I'm always excited to help my community with my <a href="/project">websites and projects</a>. 
+    I grew up in <a href="https://en.wikipedia.org/wiki/Mianyang">Mianyang</a>, <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a>, China. I was a kid who was curious about everything and always tried to be different, and this is what exactly I am now. I left my hometown for HS in California by myself when I was 14. I‘ve been teaching myself a lot about computer science, and I'm always excited to help my community with my <a href="/projects">websites and projects</a>. 
   </p>
 
   <p>If you enjoyed this post, you can sign up to get an email whenever I write a post:)
