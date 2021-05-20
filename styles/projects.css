@@ -99,6 +99,7 @@
     margin-block-start: 0;
     margin-block-end: 0;
     margin-left:-15px;
+    line-height: 1;
 }
 
 .firstinfo .profileinfo h2:hover {
