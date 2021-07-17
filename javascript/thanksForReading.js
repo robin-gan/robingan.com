@@ -17,20 +17,16 @@ var thanksForReadingParts = {
             <p>I made school-related apps like <a href="https://seeyourschedule.com">See Your Schedule</a>, an online <a href="http://u880691907-robingan-org.hostingerapp.com/">scouting app</a> for all FRC teams, a robotics beginner library <a href="http://cybersmbly.robingan.org">cybersmbly</a>
             ,a cycle-based robotics autonomous project and a <a href="http://5805docs.robingan.org">reference site</a> for 5805.</p>
 
-            <p>I also have a <a href="https://www.youtube.com/channel/UCjCP4U38X4g9HG1onRKJxlA">youtube channel</a>, where I post robotics and rap videos.
-                You can listen to my rap on my <a href="/music">music page</a>. 
-            </p>
-
     `,
     part3:`
-            <p>If you enjoyed this post, you can sign up to get an email whenever I write a post:)
+            <!--<p>If you enjoyed this post, you can sign up to get an email whenever I write a post:)
                 <div id="news_subscribe">
                     <input type="email" placeholder="your email" id="news_subscribe_button_thanks_email" class="subEmail"/>
                     <a onclick="trySub(this)" id="news_subscribe_button_thanks" class="btn subBtn">
                     <p>Subscribe</p>
                     </a>
                 </div>
-            </p>
+            </p>-->
         </section>       
     `
 }

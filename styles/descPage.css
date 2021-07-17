@@ -344,7 +344,7 @@ ul li a:link, ul li a:visited{
 }
 
 .rcc_link i{
-    color:black;
+    color:var(--mainWhite);
 }
 
 /*bracket table style*/

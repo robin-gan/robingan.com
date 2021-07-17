@@ -36,18 +36,18 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/component/menu.php' ); ?>
 
 <div id="content" class="desContentFormat thanksForReadingFormat">
-  <h2>&#127908; Hello, I'm Robin Gan &#128516; &#128516;</h2>
+  <h2>Hello ;)</h2>
 
   <!--little bit-->
   <h3>A little bit of myself...</h3>
 
-  <p>
+  <!--<p>
     <a class="thanksForReadingFormat-img" href="https://www.youtube.com/channel/UCjCP4U38X4g9HG1onRKJxlA">
       <img src="/images/bio/selfe_with_LouDog.jpg" alt="avator" width="250px"/>
     </a>
-  </p>
+  </p>-->
 
-  <p>I'm <a href="/">Xiangyu (Robin) Gan</a>, a high school senior in California, US, a programmer, a robotics library author, and a cool rapper.
+  <p>I'm <a href="/">Xiangyu (Robin) Gan</a>, a high school senior in California.
   </p>
 
   <p>I've learned programming for 1 year. I coded websites, contest algorithms, FRC robot and AI. All my code is freely accessible on <a href="https://github.com/robingan7">GitHub</a>. Please let <a href="mailto:robinganmusic@gmail.com">me</a> know if there's anything I can improve.
@@ -75,15 +75,6 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
     I grew up in <a href="https://en.wikipedia.org/wiki/Mianyang">Mianyang</a>, <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a>, China. I was a kid who was curious about everything and always tried to be different, and this is what exactly I am now. I left my hometown for HS in California by myself when I was 14. I‘ve been teaching myself a lot about computer science, and I'm always excited to help my community with my <a href="/projects">websites and projects</a>. 
   </p>
 
-  <p>If you enjoyed this post, you can sign up to get an email whenever I write a post:)
-    <div id="news_subscribe">
-      <input type="email" placeholder="your email" id="news_subscribe_button_thanks_email" class="subEmail"/>
-      <a onclick="trySub(this)" id="news_subscribe_button_thanks" class="btn subBtn">
-        <p>Subscribe</p>
-      </a>
-    </div>
-  </p>
-  
   <!--current blog and project-->
   <h3>My 3 most recent projects </h3>
   <!--the blog project section-->

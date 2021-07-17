@@ -96,6 +96,10 @@
     box-shadow: -1em 1em 0.15em rgba(0, 0, 0, 0.2);
 }
 
+.btn:hover span {
+    color: var(--mainWhite)
+}
+
 .btn:hover:before {
     background: black;
 }
