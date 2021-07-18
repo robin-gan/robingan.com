@@ -14,8 +14,8 @@ var thanksForReadingParts = {
             <p>I've learned programming for one year. I coded websites, contest algorithms, FRC robot and AI. All my code is freely accessible on <a href="https://github.com/robingan7">GitHub</a>. 
             Please let <a href="mailto:robinganmusic@gmail.com">me</a> know if there's anything I can improve. </p>
 
-            <p>I made school-related apps like <a href="https://seeyourschedule.com">See Your Schedule</a>, an online <a href="http://u880691907-robingan-org.hostingerapp.com/">scouting app</a> for all FRC teams, a robotics beginner library <a href="http://cybersmbly.robingan.org">cybersmbly</a>
-            ,a cycle-based robotics autonomous project and a <a href="http://5805docs.robingan.org">reference site</a> for 5805.</p>
+            <p>I made school-related apps like <a href="https://seeyourschedule.com">See Your Schedule</a>, an online <a href="http://u880691907-robingan-org.hostingerapp.com/">scouting app</a> for all FRC teams, a robotics beginner library <a href="http://cybersmbly.robingan.com">cybersmbly</a>
+            ,a cycle-based robotics autonomous project and a <a href="http://5805docs.robingan.com">reference site</a> for 5805.</p>
 
     `,
     part3:`

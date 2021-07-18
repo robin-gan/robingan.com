@@ -11,7 +11,7 @@
                     </li>
 
                     <li>
-                        <a href="http://team5805.robingan.org/">Website</a>
+                        <a href="http://team5805.robingan.com/">Website</a>
                     </li>
 
                 </ul>
@@ -43,7 +43,7 @@
             <h3>Challenges</h3>
             <h4>Video background</h4>
             <p>I think it will be very cool and impressive if we can have a video as background.
-                So I used <a href="https://developers.google.com/youtube/iframe_api_reference">YouTube API</a> to embed the video as backgorund so it looks cool on the <a href="http://team5805.robingan.org/">front page</a>. 
+                So I used <a href="https://developers.google.com/youtube/iframe_api_reference">YouTube API</a> to embed the video as backgorund so it looks cool on the <a href="http://team5805.robingan.com/">front page</a>. 
                 The reason why I chose Youtuube API instead using <abbr>MP4</abbr> files is that MP4 takes time to load which is not good for user experience. 
             </p>
 <figure class="highlight"><pre><code>function onYouTubeIframeAPIReady() {

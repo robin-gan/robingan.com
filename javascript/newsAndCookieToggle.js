@@ -4,7 +4,7 @@
  */
 
 //unloaded bar
-document.addEventListener('readystatechange', () => {
+/*document.addEventListener('readystatechange', () => {
     if(document.readyState == 'complete') {
         document.getElementById('progressBar').style.display = 'none';
     }
@@ -12,7 +12,7 @@ document.addEventListener('readystatechange', () => {
 
 window.addEventListener('beforeunload', (event) => {
     document.getElementById('progressBar').style.display = 'inline';
-});
+});*/
 
 //test if the suer ask the cookie question
 /*var cookieasker = document.getElementById('cookie_asked');

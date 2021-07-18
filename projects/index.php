@@ -95,7 +95,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
         </a>
         <a href="/projects" class="nav__link nav__link--active">
             <i class="fas fa-tools nav__icon"></i>
-            <span class="nav__text">Projects</span>
+            <span class="nav__text">HS Projs</span>
         </a>
         <a class="nav__link items-disable">
             <i class="fas fa-blog nav__icon"></i>

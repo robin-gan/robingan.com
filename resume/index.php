@@ -42,38 +42,35 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
   <!--H2 is absent due to the project title in project page-->
 	<section id="left">
         <h3>Education</h3>
-      
-        <h4><a href="https://www.smhs.org/">Santa Margarita Catholic HS</a><span>2018 - present</span></h4>
-        <ul>
-          <li>10th - 12th grade</li>
-          <li>GPA: 3.84</li>
-        </ul>
 
-        <h4><a href="https://summer.stanford.edu/">UCSD MicroMasters Degree in Data Science</a><span>2020(still in progress)</span></h4>
+        <!--<h4><a href="https://summer.stanford.edu/">UCSD MicroMasters Degree in Data Science</a><span>2020</span></h4>
         <ul>
           <li>DSE200x: Python for Data Science</li>
           <li>DSE210x: Probability and Statistics in Data Science using Python</li>
           <li>DSE220x: Machine Learning Fundamentals</li>
           <li>DSE230x: Big Data Analytics Using Spark</li>
+        </ul>-->
+        <h4><a href="https://www.washington.edu">University of Washington, Seattle</a><span>2021 - 2025</span></h4>
+        <ul>
+          <li>CSE 373: Data Structures and Algorithms</li>
         </ul>
 
-         <h4><a href="https://summer.stanford.edu/">Stanford Summer Session</a><span>2019</span></h4>
+        <h4><a href="https://summer.stanford.edu/">Stanford University</a><span>2019</span></h4>
         <ul>
-          <li>Intensive Studies in CS</li>
-          <li>193C: Client-Side Internet Technology</li>
-          <li>106B: Programming Abstraction</li>
-          <li>Silicon Valley Innovation Academy</li>
+          <li>Summer Quarter 2019</li>
+          <li>CS 193C: Client-Side Internet Technology</li>
+          <li>CS 106B: Programming Abstraction</li>
         </ul>
 
-        <h4><a href="https://www.rcs.edu/">Redwood Christian HS</a><span>2017 - 2018</span></h4>
+        <h4><a href="https://www.smhs.org/">Santa Margarita HS</a><span>2018 - 2021</span></h4>
         <ul>
-          <li>9th grade</li>
+          <li>High School Diploma</li>
         </ul>
         
-        <h3 class="sectionBreaker">Current Projects</h3>
+        <h3 class="sectionBreaker">Projects</h3>
         <p>I like to work on different kinds of projects. Code's available on <a href="https://github.com/robingan7">Github</a>.</p>
 
-        <h4><a href="https://coronaware.net/old">Coronaware + AI</a> &mdash; Author & Maintainer<span>2020 - present</span><span><a href="https://github.com/robingan7/coronaware.net">code</a></span></h4>
+        <h4><a href="https://coronaware.net/old">CoronAware + AI</a> &mdash; Author & Maintainer<span>2020 - present</span><span><a href="https://github.com/robingan7/coronaware.net">code</a></span></h4>
         <ul>
           <li>A website for viewing cases and trends of coronavirus in <abbr>Orange County</abbr> with graphs, table and AI Prediction.</li>
           <li>Built by me and my friend <a href="http://alexlynd.com">Alex Lynd</a> in one week.</li>
@@ -88,13 +85,6 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
           <li>Display personal schedule for each student for the entire school year.</li>
         </ul>
 
-        <h4><a href="https://docs.google.com/presentation/d/1CmEmyTTcQWOoKHe__kMMSP7wuoT-d7OXuVr9XzpFcHw/edit?usp=sharing">Analysis on predicting COVID-19 cases</a> &mdash; Author & Maintainer<span>2020 - present</span><span><a href="https://github.com/robingan7/Analysis-on-predicting-COVID-19-cases">code</a></span></h4>
-        <ul>
-          <li>Used Sklearn to model regression model. </li>
-          <li>COVID-19 datasets from CSSE by John Hopkins University.</li>
-          <li>Used pandas to organize data. </li>
-        </ul>
-
         <h4><a href="https://courseplanner-com.herokuapp.com/">Course Planner</a> &mdash; Author<span>2019 - present</span><span><a href="https://github.com/robingan7/course-planner.com">code</a></span></h4>
         <ul>
           <li>Helps teachers plan their teaching schedule faster and better.</li>
@@ -102,41 +92,32 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
           <li>Node.js + React.js web application.</li>
         </ul>
 
-        <h3 class="sectionBreaker">Finished Projects</h3>
-        <h4><a href="http://team5805.robingan.org">FRC5805 Team Website</a> &mdash; Author & Maintainer<span>2019 - present</span><span><a href="https://github.com/robingan7/team5805.com">code</a></span></h4>
-        <ul>
-            <li>My <a href="http://team5805.robingan.org">robotics team</a>'s team website.</li>
-        </ul>
         <h4><a href="http://u880691907-robingan-org.hostingerapp.com/">Scope</a> &mdash; Author & Maintainer<span>2019 - present</span><span><a href="https://github.com/robingan7/Scope">code</a></span></h4>
         <ul>
             <li>This is the project that makes me realize that I can't do all the work by myself. After hours and hours of effort, I finally could not handle all the code and everything became messy, so I had to stop the project.</li>
             <li>First <abbr>FRC</abbr> online scouting app for all teams.</li>
             <li>Contains customizable features for each team.</li>
         </ul>
+
         <h4><a href="https://github.com/robingan7/frc5805_2020CodeDemo">Pure Pursuit Robotics Autonomous</a> &mdash; Author<span>2019 - present</span><span><a href="https://github.com/robingan7/frc5805_2020CodeDemo">code</a></span></h4>
         <ul>
           <li>Leading programming topics in <abbr>FRC</abbr> contest.</li>
           <li>Aiming for autonomous awards in 2020.</li>
           <li>Using <abbr>pathfinder</abbr> and <abbr>pure pursuit</abbr> algorithms to build efficient robot auton motion.</li>
         </ul>
+
         <h4><a href="/projects/#Google_Science_Fair_2018">AI Trash Sorter</a> &mdash; Author<span>2018</span><span><a href="https://github.com/robingan7/TrashSort">code</a></span></h4>
         <ul>
           <li>using CNN to recognize recyclable and unrecyclable trash from images.</li>
           <li>Has an <abbr>98%</abbr> validation accuracy after trainig with <abbr>60,000</abbr> images from google.</li>
         </ul>
-        
-        <h4><a href="/projects/#FRC_2019_Public">FRC-2019 Public</a> &mdash; Author<span>2019</span><span><a href="https://github.com/robingan7/FRC-2019-Public">code</a></span></h4>
-        <ul>
-          <li>Code for 2019 robot <a href="http://team5805.robingan.org/robots">Big Yoshi</a>.</li>
-          <li>Using <abbr>PID control</abbr> for smooth arm motion and <abbr>limelight</abbr> library to line up with the feeder and rocket.</li>
-        </ul>
 
-        <h3 class="sectionBreaker">Organization</h3>
+        <h3 class="sectionBreaker">Leadership</h3>
         <h4><a href="https://www.smhs.org/academics/departments-and-courses/science/robotics">SMbly Required 5805</a> &mdash; Software Director<span>2018 - 2021</span></h4>
         <ul>
           <li>Software Director for 3 years, innovate cycle-base code structure to the team.</li>
-          <li>Build <a href="http://team5805.robingan.org/">team website</a> & <a href="http://u880691907-robingan-org.hostingerapp.com/">socuting system</a> & <a href="http://5805docs.robingan.org/">reference site</a>.</li>
-          <li>Host <a href="http://5805docs.robingan.org/#workshops">workshops</a> on robtoics programming.</li>
+          <li>Build <a href="http://team5805.robingan.com/">team website</a> & <a href="http://u880691907-robingan-org.hostingerapp.com/">socuting system</a> & <a href="http://5805docs.robingan.com/">reference site</a>.</li>
+          <li>Host <a href="http://5805docs.robingan.com/#workshops">workshops</a> on robtoics programming.</li>
         </ul>
 
         <h4><a href="http://smtec.000webhostapp.com/">Technology Empowerment Club</a> &mdash; President<span>2018 - 2021</span></h4>
@@ -149,10 +130,10 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
 	<section id="right">
     <h3>Skills</h3>
     <ul>
-      <li>Angular.js, React.js, PHP, Node.js</li>
-      <li>HTML, JavaScript, CSS</li>
-      <li>MongoDB, SQL</li>
-      <li>Python, Java</li>
+      <li>Python, Java, Javascript, CSS, PHP</li>
+      <li>Pandas, Spark, NumPy, Sklearn</li>
+      <li>Angular, React, Node, MongoDB, SQL</li>
+      <li>Git</li>
     </ul>
 
     <h3 class="sectionBreaker">Awards</h3>
@@ -185,7 +166,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
       <li>5171th/10300 place in <a href="https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2">Round 1B</a><span>2020</span></li>
     </ul>
 
-    <h3>Tiktok</h3>
+    <!--<h3>Tiktok</h3>-->
     <!--<h4><a href="https://www.youtube.com/watch?v=RZJNbo-2GM4">MIT Maker Portfolio</a><span>Jan 2021</span></h4>
     <p><iframe width="350" height="180" src="https://www.youtube.com/embed/Sx0j0_zTTow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>-->
    

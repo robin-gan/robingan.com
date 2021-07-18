@@ -53,7 +53,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
   <p>I've learned programming for 1 year. I coded websites, contest algorithms, FRC robot and AI. All my code is freely accessible on <a href="https://github.com/robingan7">GitHub</a>. Please let <a href="mailto:robinganmusic@gmail.com">me</a> know if there's anything I can improve.
   </p>
 
-  <p>I made school-related app like <a href="https://seeyourschedule.com">See Your Schedule</a>, a <a href="https://courseplanner-com.herokuapp.com">course planner </a> that helps teachers in my school plan their teaching schedule easier, a <a href="https://coronaware.net/old">website</a> for people in Orange County to view covid-19 cases,  a robotics beginner library <a href="http://cybersmbly.robingan.org">cybersmbly</a>
+  <p>I made school-related app like <a href="https://seeyourschedule.com">See Your Schedule</a>, a <a href="https://courseplanner-com.herokuapp.com">course planner </a> that helps teachers in my school plan their teaching schedule easier, a <a href="https://coronaware.net/old">website</a> for people in Orange County to view covid-19 cases,  a robotics beginner library <a href="http://cybersmbly.robingan.com">cybersmbly</a>
   , one of the best FRC 2020 season autonomous <a href="https://www.youtube.com/watch?v=ReYujJ4UYuQ">code</a> for 5805.
   </p>
 
@@ -64,7 +64,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
   </p>
 
   <p>
-    Here are other sites and write algorithms I built, a <a href="/projects/#Google_Science_Fair_2018">AI Trash Sorter</a> using CNN to sort by scanning images, <a href="http://5805docs.robingan.org">FRC reference site</a> that helps FRC robotics programmers to find documentations and resources.  
+    Here are other sites and write algorithms I built, a <a href="/projects/#Google_Science_Fair_2018">AI Trash Sorter</a> using CNN to sort by scanning images, <a href="http://5805docs.robingan.com">FRC reference site</a> that helps FRC robotics programmers to find documentations and resources.  
   </p>
 
   <p>I also have a <a href="https://www.youtube.com/channel/UCjCP4U38X4g9HG1onRKJxlA">youtube channel</a>, where I post robotics and rap videos.

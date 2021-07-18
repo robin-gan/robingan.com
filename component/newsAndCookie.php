@@ -1,11 +1,11 @@
 <?php
 ?>
     <!--loading bar-->
-    <div id="progressBar" class="progress-bar">
+    <!--<div id="progressBar" class="progress-bar">
         <span class="bar">
             <span class="progress"></span>
         </span>
-    </div>
+    </div>-->
 
     <div id='mit'></div>
     <!--cookie asked-->

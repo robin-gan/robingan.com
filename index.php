@@ -78,7 +78,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
                         <i class="fas fa-tools"></i>
                         </div>
                         <div class="project-name">
-                        <p>Projects</p>
+                        <p>HS Projs</p>
                         </div>
                     </div>
                 </a>
@@ -137,7 +137,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
         </a>
         <a href="/projects" class="nav__link">
             <i class="fas fa-tools nav__icon"></i>
-            <span class="nav__text">Projects</span>
+            <span class="nav__text">HS Projs</span>
         </a>
         <a class="nav__link items-disable">
             <i class="fas fa-blog nav__icon"></i>

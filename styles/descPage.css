@@ -256,7 +256,7 @@ ul li a:link, ul li a:visited{
     text-decoration: none;
 }
 .desContentFormat h4 a:hover{
-    color: var(--darkGoldDesLink);
+    color: var(--mainWhite);
     text-decoration: underline;
 }
 .desContentFormat blockquote {
