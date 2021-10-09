@@ -67,8 +67,8 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
     <!--project des page
     class="projectPageAppear"-->
     <div id="projectDesPage" class="desContentFormat projectPageAppear">
-        <a onclick="closeDes()" id="close_cross_new" class="btn">
-            <span>&#10005;</span>
+        <a onclick="closeDes()" id="close_cross_new" class="close-btn">
+            <i class="fas fa-sign-out-alt"></i>
         </a>
 
         <h2 id="projectDesPage-title" class="">Data Loading</h2>

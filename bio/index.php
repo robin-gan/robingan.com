@@ -36,7 +36,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/component/menu.php' ); ?>
 
 <div id="content" class="desContentFormat thanksForReadingFormat">
-  <h2>Hello ;)</h2>
+  <h2>Hello...</h2>
 
   <!--little bit-->
   <h3>A little bit of myself...</h3>
@@ -47,28 +47,24 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
     </a>
   </p>-->
 
-  <p>I'm <a href="/">Xiangyu (Robin) Gan</a>, a high school senior in California.
+  <p>I'm <a href="/">Robin Gan</a>, a high school senior in California.
   </p>
 
   <p>I've learned programming for 1 year. I coded websites, contest algorithms, FRC robot and AI. All my code is freely accessible on <a href="https://github.com/robingan7">GitHub</a>. Please let <a href="mailto:robinganmusic@gmail.com">me</a> know if there's anything I can improve.
   </p>
 
-  <p>I made school-related app like <a href="https://seeyourschedule.com">See Your Schedule</a>, a <a href="https://courseplanner-com.herokuapp.com">course planner </a> that helps teachers in my school plan their teaching schedule easier, a <a href="https://coronaware.net/old">website</a> for people in Orange County to view covid-19 cases,  a robotics beginner library <a href="http://cybersmbly.robingan.com">cybersmbly</a>
-  , one of the best FRC 2020 season autonomous <a href="https://www.youtube.com/watch?v=ReYujJ4UYuQ">code</a> for 5805.
+  <p>I made school-related app like <a href="https://seeyourschedule.com">See Your Schedule</a>, a <a href="https://courseplanner-com.herokuapp.com">course planner </a> that helps teachers in my school plan their teaching schedule easier, a <a href="https://coronaware.net/old">website</a> for people in Orange County to view covid-19 cases, 
+  one of the best FRC 2020 season autonomous <a href="https://www.youtube.com/watch?v=ReYujJ4UYuQ">code</a> for 5805.
   </p>
 
-  <p>
+  <!--<p>
     <a class="thanksForReadingFormat-img" href="https://www.youtube.com/channel/UCjCP4U38X4g9HG1onRKJxlA">
       <img src="/images/coo.png" alt="avator" width="250px"/>
     </a>
-  </p>
+  </p>-->
 
   <p>
     Here are other sites and write algorithms I built, a <a href="/projects/#Google_Science_Fair_2018">AI Trash Sorter</a> using CNN to sort by scanning images, <a href="http://5805docs.robingan.com">FRC reference site</a> that helps FRC robotics programmers to find documentations and resources.  
-  </p>
-
-  <p>I also have a <a href="https://www.youtube.com/channel/UCjCP4U38X4g9HG1onRKJxlA">youtube channel</a>, where I post robotics and rap videos.
-  You can listen to my rap on my <a href="/music">music page</a>. 
   </p>
 
   <p>
@@ -105,7 +101,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
         </div>         
 
   <!--interesting facts-->
-  <h3>Interesting facts of me...</h3>
+  <!--<h3>Interesting facts of me...</h3>
   <ul>
     <li>I won a &#127942;from a Chinese national singing contest in <abbr>Beijing</abbr> when I was around <abbr>9</abbr>. Now I can't stand my own voice(it just bad &#128517;).</li>
 
@@ -137,7 +133,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
     <li style="display:none;">I sometimes hide my macbook behind my school tablet during class to write code. My macbook - <abbr>model A1708</abbr> is hided perfectly behind my school tablet - <abbr> Lenovo Thinkpad Yoga</abbr>
     </li>
   </ul>
-</div>
+</div>-->
 
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/component/newsAndCookie.php' ); ?>
 

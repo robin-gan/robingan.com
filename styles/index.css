@@ -93,7 +93,7 @@
     width: 100%;
     height: 100%;
     z-index: 1;
-    color: rgb(200, 199, 199);
+    color: rgb(233, 223, 223);
     -webkit-transform: translate(0vw, 0) skew(13deg) scale(1, 0.8);
     -ms-transform: translate(0vw, 0) skew(13deg) scale(1, 0.8);
     transform: translate(0vw, 0) skew(13deg) scale(1, 0.8);

@@ -2,19 +2,18 @@
 ?>
 <div id="menu">
     <div class="icons">
-        <a href="mailto:gzt11111@gmail.com?Subject=Hello%20Robin">
-            <i class="fas fa-envelope-open"></i>
+        <a href="/bio">
+            <i class="fas fa-user-ninja"></i>
         </a>   
-        <a href="https://www.tiktok.com/@robin.gan">
-            <i class="fab fa-tiktok"></i>
+        <a href="https://github.com/robingan7/robingan.com">
+            <i class="fas fa-code"></i>
         </a>
 
-        <a href="https://github.com/robingan7">
-            <i class="fab fa-github" aria-hidden="true"></i>
+        <a href="/resume">
+            <i class="fas fa-file-alt"></i>
         </a>
-    
-        <a href="https://www.youtube.com/channel/UCjCP4U38X4g9HG1onRKJxlA">
-            <i class="fab fa-youtube" aria-hidden="true"></i>
+        <a href="https://github.com/robingan7">
+            <i class="fab fa-github-alt"></i>
         </a>
     </div>    
     <div class="wrapper">

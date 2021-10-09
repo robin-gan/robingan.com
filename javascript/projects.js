@@ -53,8 +53,8 @@ function resetTitleAndDescription(){
     document.title = 'Project | Robin Gan';
     document.querySelector('[name="description"]').content = "Robin Gan's project --甘翔羽 " + headerOG;
     document.getElementById('projectDesPage').innerHTML = `
-        <a onclick="closeDes()" id="close_cross_new" class="btn">
-            <span>&#10005;</span>
+        <a onclick="closeDes()" id="close_cross_new" class="close-btn">
+            <i class="fas fa-sign-out-alt"></i>
         </a>
         <h2 id="projectDesPage-title" class="">Data Loading</h2>
         <div id="projectDesPage-content" style="margin-top: 10px;">
@@ -92,8 +92,8 @@ function loadProjectDes(id, scroll=true){
 
                 addOneView(id, "project").then((currentView)=>{
                     let output = `
-                    <a onclick="closeDes()" id="close_cross_new" class="btn">
-                        <span>&#10005;</span>
+                    <a onclick="closeDes()" id="close_cross_new" class="close-btn">
+                        <i class="fas fa-sign-out-alt"></i>
                     </a>
 
                     <!--<h2 id="projectDesPage-title" date="By Robin Gan &nbsp;&bull; &nbsp;`+ date_ + `&nbsp; &bull; &nbsp;` + formatView(currentView) + ` views">` + title_ + `</h2>-->

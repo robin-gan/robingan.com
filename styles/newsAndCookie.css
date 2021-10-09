@@ -108,6 +108,10 @@
     background: black;
 }
 
+.close-btn {
+    color: var(--mainWhite);
+}
+
 /*cookie_asked*/
 #cookie_asked {
     position: fixed;

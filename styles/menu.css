@@ -11,6 +11,7 @@
 .icons a i {
     font-size: 35px;
     color: var(--mainGold);
+    margin-left: 3.5px;
 }
 
 .icons a i:hover {

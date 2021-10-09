@@ -206,6 +206,9 @@ abbr {
 blockquote img, object, embed, audio, video {
     width:100%!important;
 }
+blockquote > p, blockquote > ul > li {
+    color: black;
+}
 
 .parallelImageRight{
     width: 47%!important;
