@@ -8,7 +8,7 @@
  / _, _/ /_/ / /_/ / / / / /  / /_/ / /_/ / / / /
 /_/ |_|\____/_.___/_/_/ /_/   \____/\__,_/_/ /_/ 
                                                  
-Thanks for inspecting.|Github @robingan7|Youtube @robin gan                                                                  
+Thanks for inspecting.|Github @therobingan|Youtube @robin gan                                                                  
 -->
 <html>
   <head>
@@ -50,7 +50,7 @@ Thanks for inspecting.|Github @robingan7|Youtube @robin gan
   <p>I'm <a href="/">Robin Gan</a>, a high school senior in California.
   </p>
 
-  <p>I've learned programming for 1 year. I coded websites, contest algorithms, FRC robot and AI. All my code is freely accessible on <a href="https://github.com/robingan7">GitHub</a>. Please let <a href="mailto:robinganmusic@gmail.com">me</a> know if there's anything I can improve.
+  <p>I've learned programming for 1 year. I coded websites, contest algorithms, FRC robot and AI. All my code is freely accessible on <a href="https://github.com/therobingan">GitHub</a>. Please let <a href="mailto:robinganmusic@gmail.com">me</a> know if there's anything I can improve.
   </p>
 
   <p>I made school-related app like <a href="https://seeyourschedule.com">See Your Schedule</a>, a <a href="https://courseplanner-com.herokuapp.com">course planner </a> that helps teachers in my school plan their teaching schedule easier, a <a href="https://coronaware.net/old">website</a> for people in Orange County to view covid-19 cases, 

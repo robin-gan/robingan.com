@@ -7,7 +7,7 @@
                 <a>Link</a>
                 <ul>
                     <li>
-                        <a href="https://github.com/robingan7/AP-CS/blob/master/pythongame.py">View Code</a>
+                        <a href="https://github.com/therobingan/AP-CS/blob/master/pythongame.py">View Code</a>
                     </li>
 
                     <li>
@@ -40,7 +40,7 @@
 
             <h3>How to run it</h3>
             <ul>
-                <li><p>copy the <a href="https://github.com/robingan7/AP-CS/blob/master/pythongame.py">code</a></p></li>
+                <li><p>copy the <a href="https://github.com/therobingan/AP-CS/blob/master/pythongame.py">code</a></p></li>
                 <li><p>paste it in one of the python files in your jupyter notebook </p>
                 <img src="/images/projects/Python_Space_Invader/jupyter.png" alt="jupyter" /></li>
                 <li>Run the code and you should see this

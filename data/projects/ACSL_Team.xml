@@ -7,7 +7,7 @@
                 <a>Link</a>
                 <ul>
                     <li>
-                        <a href="https://github.com/robingan7/ACSL">View Code</a>
+                        <a href="https://github.com/therobingan/ACSL">View Code</a>
                     </li>
                 </ul>
             </li>
@@ -48,11 +48,11 @@
                 my code might look very silly to you. However, I still want to show some of them so that you can see my improvement each year.
             </p>
             <ul>
-            <li><a href="https://github.com/robingan7/ACSL/tree/master/practice%20contest%202018/Hexgrid_Path_Generator">Hexgrid Path Generation</a> :find a path with given length between two grids in hexagons.</li>
-            <li><a href="https://github.com/robingan7/ACSL/tree/master/practice%20contest%202018/Skyscraper">Skyscraper</a> :solve <a href="https://brainbashers.com/skyscrapers.asp">Skyscrapers</a> game by python code.</li>
-            <li><a href="https://github.com/robingan7/ACSL/tree/master/practice%20contest%202018/Palindrome">Palindrome</a> :our team tryout problem. Adding two number(palindrome of each other) in a given base. </li>
-            <li><a href="https://github.com/robingan7/ACSL/tree/master/season%202018-2019/contest3">Stretch</a> :Given a rectangular grid and the 5 types of pieces shown below, the object of Stretch is to place pieces in the grid so that they form a connected path across the grid. If the initial piece is in the leftmost column, the path goes to the rightmost column. If the initial piece is in the rightmost column, the path goes to the leftmost column.</li>
-            <li>More <a href="https://github.com/robingan7/ACSL">Solutions</a></li>
+            <li><a href="https://github.com/therobingan/ACSL/tree/master/practice%20contest%202018/Hexgrid_Path_Generator">Hexgrid Path Generation</a> :find a path with given length between two grids in hexagons.</li>
+            <li><a href="https://github.com/therobingan/ACSL/tree/master/practice%20contest%202018/Skyscraper">Skyscraper</a> :solve <a href="https://brainbashers.com/skyscrapers.asp">Skyscrapers</a> game by python code.</li>
+            <li><a href="https://github.com/therobingan/ACSL/tree/master/practice%20contest%202018/Palindrome">Palindrome</a> :our team tryout problem. Adding two number(palindrome of each other) in a given base. </li>
+            <li><a href="https://github.com/therobingan/ACSL/tree/master/season%202018-2019/contest3">Stretch</a> :Given a rectangular grid and the 5 types of pieces shown below, the object of Stretch is to place pieces in the grid so that they form a connected path across the grid. If the initial piece is in the leftmost column, the path goes to the rightmost column. If the initial piece is in the rightmost column, the path goes to the leftmost column.</li>
+            <li>More <a href="https://github.com/therobingan/ACSL">Solutions</a></li>
             </ul>
 
             <h3>2019-2020 Season</h3>

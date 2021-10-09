@@ -5,14 +5,14 @@
         <a href="/bio">
             <i class="fas fa-user-ninja"></i>
         </a>   
-        <a href="https://github.com/robingan7/robingan.com">
+        <a href="https://github.com/therobingan/robingan.com">
             <i class="fas fa-code"></i>
         </a>
 
         <a href="/resume">
             <i class="fas fa-file-alt"></i>
         </a>
-        <a href="https://github.com/robingan7">
+        <a href="https://github.com/therobingan">
             <i class="fab fa-github-alt"></i>
         </a>
     </div>    

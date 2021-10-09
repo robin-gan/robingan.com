@@ -339,7 +339,7 @@ also the result to `load_rank(con1,con2,con3)`.
 
 #### Xcode Version(Apple APP)
 
-Here is the [code](https://github.com/robingan7/frcscouting.ga-Xcode).
+Here is the [code](https://github.com/therobingan/frcscouting.ga-Xcode).
 Xcode version of frcscouting.ga, basically displaying sub page of the
 website version in each tab. I didn't publish it because I didn't want
 to pay \$100 developer fee.

@@ -7,7 +7,7 @@
                 <a>Link</a>
                 <ul>
                     <li>
-                        <a href="https://github.com/robingan7/Robinweb">View Code</a>
+                        <a href="https://github.com/therobingan/Robinweb">View Code</a>
                     </li>
                     <li>
                         <a href="https://robingan.org/old/">Website</a>
@@ -115,7 +115,7 @@ while($rows = mysqli_fetch_array($result)){
                 Also, I understood more about HTML structure and CSS styling through this project. And I'm still updating this website until August 2019 when I gave up and wanted to start a completed new one(robingan.org).  
             </p>
 
-            <p>View the entire website <a href="https://github.com/robingan7/robingan.ga">code</a></p>.
+            <p>View the entire website <a href="https://github.com/therobingan/robingan.ga">code</a></p>.
 
              <h4>Compare <a href="/">robingan.org(new version)</a> with <a href="https://robinwebsite7.000webhostapp.com/">robingan.ga(old version)</a></h4>
             <ul>

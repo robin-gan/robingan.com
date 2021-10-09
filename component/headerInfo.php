@@ -7,7 +7,7 @@
     <meta property="og:image" content="http://robingan.com/images/favicon/logo-500x500.png" />
     <meta property="og:image:secure_url" content="http://robingan.com/images/favicon/logo-500x500.png">
     <meta property="article:author" content="http://robingan.com"/>
-    <link rel="payment" href="https://patreon.com/robingan7" title="Support my Patreon (robingan)" />
+    <link rel="payment" href="https://patreon.com/therobingan" title="Support my Patreon (robingan)" />
     <link rel="canonical" href="http://robingan.com/" />
     <meta property="og:url" content="http://robingan.com/" />
     <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/logo-apple-icon.png"/>

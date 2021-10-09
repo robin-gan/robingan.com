@@ -7,7 +7,7 @@
                 <a>Link</a>
                 <ul>
                     <li>
-                        <a href="https://github.com/robingan7/google-code-in_2018">View Code</a>
+                        <a href="https://github.com/therobingan/google-code-in_2018">View Code</a>
                     </li>
                      <li>
                         <a href="https://en.wikipedia.org/wiki/User:Robingan7/sandbox">Output</a>
@@ -112,7 +112,7 @@ local months4 = { "january" , ... , "december"}</code>
 end</code>
             </pre>
             </figure>
-            <p>Entire <a href="https://github.com/robingan7/google-code-in_2018/blob/master/lua7.lua">code</a></p>
+            <p>Entire <a href="https://github.com/therobingan/google-code-in_2018/blob/master/lua7.lua">code</a></p>
             
             <h4>Lua 8</h4>
             <p>Problem <a href="https://en.wikipedia.org/wiki/User:RexxS/GCI-Task08">Description</a></p>
@@ -209,7 +209,7 @@ end
             </figure>
 
             <p>I was the first one to complete this task. I was pushing the mentor making new tasks by finishing this one in <abbr>two</abbr> days. 
-                And here is the entire <a href="https://github.com/robingan7/google-code-in_2018/blob/master/lua8.lua">code</a>.
+                And here is the entire <a href="https://github.com/therobingan/google-code-in_2018/blob/master/lua8.lua">code</a>.
             </p>
 
             <h4>Lua 9</h4>
@@ -243,7 +243,7 @@ links[i] = "[["..sitelink.."|"..strings[1].."]]"
 </code>        
             </pre>
             </figure>
-            <p>It's a simpler task compare to 7 and 8. here is the entire <a href="https://github.com/robingan7/google-code-in_2018/blob/master/lua9.lua">code</a>.</p>
+            <p>It's a simpler task compare to 7 and 8. here is the entire <a href="https://github.com/therobingan/google-code-in_2018/blob/master/lua9.lua">code</a>.</p>
             
             <h4>LilyPond</h4>
             <p>LilyPond is the language that Wikipedia uses to create piano sheets(visual and audio) so that users can see the nodes and listen to the piece. I had a hard time 

@@ -116,7 +116,7 @@
             </p>
 
             <h3>What I achieved so far</h3>
-            <p>I've been pushing updates on this <a href="https://github.com/robingan7/frc5805_2020CodeDemo">repo</a>, which will be our code for next year. Here is what I finished and learned so far, </p>
+            <p>I've been pushing updates on this <a href="https://github.com/therobingan/FRC-2020-Template">repo</a>, which will be our code for next year. Here is what I finished and learned so far, </p>
             <ul>
                 <li>Working multi-threading system that can do the same thing as the <a href="/projects/#FRC_2019_Public">command base</a> structure from last year. </li>
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/VvD2QTrWiYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -711,7 +711,7 @@ document.getElementById('next-btn').click();</code> </pre> </figure>
                 <p>Before building season, I was basically learning the whole time when I was at the meeting. I joined team in August with this email</p>
                 <p><img src="/images/media/FRC_Season_2019/email.png" alt="email"/></p>
                 <p>Then after school, I went to the classroom and met <a href="https://github.com/andrewd30">Andrew</a>--the only programmer was on the team.
-                I was very sure I will be doing programming. So he showed me the <a href="https://github.com/robingan7/FRC-2018-Public">code</a> from last year.
+                I was very sure I will be doing programming. So he showed me the <a href="https://github.com/therobingan/FRC-2018-Public">code</a> from last year.
                 I was surprised how different it was from the <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-a/course">Java</a> I known. I spent most of my time learning Java libraries like 
                 <a href="https://first.wpi.edu/FRC/roborio/release/docs/java/">WPILIB</a> & <a href="https://phoenix-documentation.readthedocs.io/en/latest/index.html">
                 ETRE</a> to be ready for building season.</p>
@@ -724,7 +724,7 @@ document.getElementById('next-btn').click();</code> </pre> </figure>
                     out to <a href="https://github.com/andrewd30">Andrew</a> and Aidan</li>
 
                     <li><strong>Line Light Aligning: </strong>it was our first experience with <a href="https://limelightvision.io/">lime light</a> camera, which save lots of time to 
-                    build our own vision system. Also, thanks to my team's rich enough to get one. I worked on the <a href="https://github.com/robingan7/FRC-2019-Public/blob/master/src/main/java/frc/robot/commands/VisionDrive.java">code</a>
+                    build our own vision system. Also, thanks to my team's rich enough to get one. I worked on the <a href="https://github.com/therobingan/FRC-2019-Public/blob/master/src/main/java/frc/robot/commands/VisionDrive.java">code</a>
                      and made a working vision tracking drivebase in the second week as shown in this 
                     <a href="https://www.youtube.com/watch?v=qL1M6FNSRWc">video</a>,
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/qL1M6FNSRWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -739,7 +739,7 @@ document.getElementById('next-btn').click();</code> </pre> </figure>
                         <strong>LED Driver Signal: </strong>By using <a href="https://www.arduino.cc/">Arduino</a>, I was able to control LED's color based on the robot states to drivers
                         signal during match. For example, the LED will turn red if the arm is moving so that the driver knows the state of robot. However, we didn't have enough space
                         on our <a href="https://www.andymark.com/products/voltage-regulator-module">Voltage Regulator Module</a> to wire this Arduino, so we ended up not using it, but I 
-                        still keep the <a href="https://github.com/robingan7/FRC-2019-Public/blob/master/src/main/java/frc/robot/subsystems/Arduino.java">code</a> 
+                        still keep the <a href="https://github.com/therobingan/FRC-2019-Public/blob/master/src/main/java/frc/robot/subsystems/Arduino.java">code</a> 
                         and a <a href="https://www.youtube.com/watch?v=kvAwRCbZrN4">video</a> of this.
 
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/kvAwRCbZrN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
@@ -762,7 +762,7 @@ document.getElementById('next-btn').click();</code> </pre> </figure>
                 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/DSitcrhtsj8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
                 <h3>What I did on for off season<span>May 2019 - Aug 2019</span></h3>
                 <ul>
-                    <li>working on the new cycled base <a href="https://github.com/robingan7/frc5805_2020CodeDemo">code structure</a></li>
+                    <li>working on the new cycled base <a href="https://github.com/therobingan/FRC-2020-Template">code structure</a></li>
                     <li><a href="http://u880691907-robingan-org.hostingerapp.com/">scope</a> -- a scouting app for all <abbr>FRC</abbr> teams</li>
                     <li><a href="http://5805docs.robingan.com">5805docs</a> -- <a href="https://www.thebluealliance.comhttps://www.thebluealliance.com/team/5805">frc5805</a> documentation page that includes most resources and links in FRC programming.</li>
                 </ul>
