@@ -51,7 +51,7 @@ function loadProject() {
 
 function resetTitleAndDescription(){
     document.title = 'Project | Robin Gan';
-    document.querySelector('[name="description"]').content = "Robin Gan's project --甘翔羽 " + headerOG;
+    document.querySelector('[name="description"]').content = "Robin Gan's project  " + headerOG;
     document.getElementById('projectDesPage').innerHTML = `
         <a onclick="closeDes()" id="close_cross_new" class="close-btn">
             <i class="fas fa-sign-out-alt"></i>
@@ -109,7 +109,7 @@ function loadProjectDes(id, scroll=true){
                   
                     (new Promise((res, rej)=> {
                         document.title = title_ + ' Project | Robin Gan';
-                        document.querySelector('[name="description"]').content = title_ + " - Robin Gan's project --甘翔羽 " + headerOG;
+                        document.querySelector('[name="description"]').content = title_ + " - Robin Gan's project  " + headerOG;
                         document.getElementById('projectDesPage').innerHTML = output;
                         res();
                     })).then(()=> {
@@ -179,7 +179,7 @@ const app = {
                             document.getElementById('projectDesPage').classList.remove('projectPageAppear');
 
                             document.title = newhash + 'Project | Robin Gan';
-                            document.querySelector('[name="description"]').content = newhash + " - Robin Gan's project --甘翔羽 " + headerOG;
+                            document.querySelector('[name="description"]').content = newhash + " - Robin Gan's project  " + headerOG;
                             loadProjectDes(newhash);
                         }
                     }

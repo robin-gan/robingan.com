@@ -12,11 +12,11 @@ Github @therobingan
 -->
 <html>
   <head>
-    <title>Project | Robin Gan--甘翔羽 &raquo; Robingan.com</title>
+    <title>Project | Robin Gan &raquo; Robingan.com</title>
     <meta charset="UTF-8"/>
-    <meta property="og:title" content="Project | Robin Gan--甘翔羽 &raquo; Robingan.com" />
-    <meta name="description" content="Robin Gan's project --甘翔羽 Welcome to my portfolio page"/>
-    <meta property="og:description" content="Robin Gan's project --甘翔羽 Welcome to my portfolio page"/>
+    <meta property="og:title" content="Project | Robin Gan &raquo; Robingan.com" />
+    <meta name="description" content="Robin Gan's project  Welcome to my portfolio page"/>
+    <meta property="og:description" content="Robin Gan's project  Welcome to my portfolio page"/>
     <?php include '../component/headerInfo.php'?>
     <link rel="stylesheet" href="../styles/main.css"/>
     <link rel="stylesheet" href="../styles/projects.css?version=1"/>

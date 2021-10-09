@@ -12,11 +12,11 @@ Github @therobingan
 -->
 <html>
   <head>
-    <title>HOME | Robin Gan--甘翔羽 &raquo; Robingan.com</title>
+    <title>HOME | Robin Gan &raquo; Robingan.com</title>
     <meta charset="UTF-8"/>
-    <meta property="og:title" content="HOME | Robin Gan--甘翔羽 &raquo; Robingan.com" />
-    <meta name="description" content="Robin Gan's home--甘翔羽 Welcome to my portfolio page"/>
-    <meta property="og:description" content="Robin Gan's home--甘翔羽 Welcome to my portfolio page" />
+    <meta property="og:title" content="HOME | Robin Gan &raquo; Robingan.com" />
+    <meta name="description" content="Robin Gan's home Welcome to my portfolio page"/>
+    <meta property="og:description" content="Robin Gan's home Welcome to my portfolio page" />
     <?php include 'component/headerInfo.php'?>
     <link rel="stylesheet" href="styles/main.css"/>
     <link rel="stylesheet" href="styles/index.css"/>

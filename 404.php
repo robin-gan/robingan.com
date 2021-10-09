@@ -12,11 +12,11 @@ Github @therobingan
 -->
 <html>
   <head>
-    <title>404 | Robin Gan--甘翔羽 &raquo; Robingan.com</title>
-    <meta property="og:title" content="404 | Robin Gan--甘翔羽 &raquo; Robingan.com" />
+    <title>404 | Robin Gan &raquo; Robingan.com</title>
+    <meta property="og:title" content="404 | Robin Gan &raquo; Robingan.com" />
     <meta charset="UTF-8"/>
-    <meta name="description" content="Page not found --甘翔羽 Welcome to my portfolio page"/>
-    <meta property="og:description" content="Page not found --甘翔羽 Welcome to my portfolio page"/>
+    <meta name="description" content="Page not found  Welcome to my portfolio page"/>
+    <meta property="og:description" content="Page not found  Welcome to my portfolio page"/>
     <?php include 'component/headerInfo.php'?>
     <link rel="stylesheet" href="/styles/main.css"/>
     <link rel="stylesheet" href="/styles/404.css"/>
