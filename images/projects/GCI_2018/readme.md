@@ -108,7 +108,7 @@ date format here is an example code for mdy format,
                 
 
 Entire
-[code](https://github.com/therobingan/google-code-in_2018/blob/master/lua7.lua)
+[code](https://github.com/robin-gan/google-code-in_2018/blob/master/lua7.lua)
 
 #### Lua 8
 
@@ -136,7 +136,7 @@ solution,
 I was the first one to complete this task. I was pushing the mentor
 making new tasks by finishing this one in two days. And here is the
 entire
-[code](https://github.com/therobingan/google-code-in_2018/blob/master/lua8.lua).
+[code](https://github.com/robin-gan/google-code-in_2018/blob/master/lua8.lua).
 
 #### Lua 9
 
@@ -172,7 +172,7 @@ maches string.
                 
 
 It's a simpler task compare to 7 and 8. here is the entire
-[code](https://github.com/therobingan/google-code-in_2018/blob/master/lua9.lua).
+[code](https://github.com/robin-gan/google-code-in_2018/blob/master/lua9.lua).
 
 #### LilyPond
 

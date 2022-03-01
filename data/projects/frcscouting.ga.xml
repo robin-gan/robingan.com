@@ -7,11 +7,11 @@
                 <a>Link</a>
                 <ul>
                     <li>
-                        <a href="https://github.com/therobingan/frcscouting.ga">View Code</a>
+                        <a href="https://github.com/robin-gan/frcscouting.ga">View Code</a>
                     </li>
 
                     <li>
-                        <a href="https://github.com/therobingan/frcscouting.ga-xcode">Xcode Version</a>
+                        <a href="https://github.com/robin-gan/frcscouting.ga-xcode">Xcode Version</a>
                     </li>
 
                     <li>
@@ -105,7 +105,7 @@ function toggleChart(cls) {
             <p>As you see in <abbr>fronend</abbr> part of this article, the website can graphing the data(such as total cargo point) of <abbr>a specific ability</abbr> of <abbr>a specific data(such as total cargo point)</abbr> in a <abbr>a specific event</abbr>. This neat graph API is called <a href="https://www.chartjs.org/">chart.js</a>. 
             </p>
 
-            <p><strong>First,</strong> I put <code>event listener</code> on each <abbr>select bar</abbr> to send value to <code><a href="https://github.com/therobingan/frcscouting.ga/blob/6aced12a6bc93109d2a8f9805c08d3841f5431a3/pass_load_part.js#L30">load_graph(teamNumber, region, data)</a></code> method,</p>
+            <p><strong>First,</strong> I put <code>event listener</code> on each <abbr>select bar</abbr> to send value to <code><a href="https://github.com/robin-gan/frcscouting.ga/blob/6aced12a6bc93109d2a8f9805c08d3841f5431a3/pass_load_part.js#L30">load_graph(teamNumber, region, data)</a></code> method,</p>
             <figure class="highlight"><pre><code>//team number 
 $('#chteamnumber').change(function () {
     var con1 = $('#chteamnumber').val();
@@ -133,7 +133,7 @@ $('#chfeature').change(function () {
             </pre>
             </figure>
 
-            <p><strong>Second</strong>, <code><a href="https://github.com/therobingan/frcscouting.ga/blob/6aced12a6bc93109d2a8f9805c08d3841f5431a3/pass_load_part.js#L30">load_graph(teamNumber, region, data)</a></code> method sends data to <code><a href="https://github.com/therobingan/frcscouting.ga/blob/master/graph.php">graph.php</a></code>, which queries data from mysql database, with <a href="https://en.wikipedia.org/wiki/Ajax_%28programming%29">ajax</a>. After it gets responses from database, it displays the graphs on the screen.</p>
+            <p><strong>Second</strong>, <code><a href="https://github.com/robin-gan/frcscouting.ga/blob/6aced12a6bc93109d2a8f9805c08d3841f5431a3/pass_load_part.js#L30">load_graph(teamNumber, region, data)</a></code> method sends data to <code><a href="https://github.com/robin-gan/frcscouting.ga/blob/master/graph.php">graph.php</a></code>, which queries data from mysql database, with <a href="https://en.wikipedia.org/wiki/Ajax_%28programming%29">ajax</a>. After it gets responses from database, it displays the graphs on the screen.</p>
             <figure class="highlight"><pre><code>function load_graph(teamNumber, region, data) {
     $.ajax({
         url: "graph.php",
@@ -152,7 +152,7 @@ $('#chfeature').change(function () {
             </pre>
             </figure>
 
-            <p><strong>Finally</strong>, <code><a href="https://github.com/therobingan/frcscouting.ga/blob/master/graph.php">graph.php</a></code> queries from databae and converts the data into <abbr>JSON</abbr> that <a href="https://www.chartjs.org/">chart.js</a> can read. It responses to <code><a href="https://github.com/therobingan/frcscouting.ga/blob/6aced12a6bc93109d2a8f9805c08d3841f5431a3/pass_load_part.js#L30">load_graph(teamNumber, region, data)</a></code> method 
+            <p><strong>Finally</strong>, <code><a href="https://github.com/robin-gan/frcscouting.ga/blob/master/graph.php">graph.php</a></code> queries from databae and converts the data into <abbr>JSON</abbr> that <a href="https://www.chartjs.org/">chart.js</a> can read. It responses to <code><a href="https://github.com/robin-gan/frcscouting.ga/blob/6aced12a6bc93109d2a8f9805c08d3841f5431a3/pass_load_part.js#L30">load_graph(teamNumber, region, data)</a></code> method 
             as soon as it gets the result. </p>
             <figure class="highlight"><pre><code>//query data from database
 $query = /* sql query statement */;
@@ -222,8 +222,8 @@ echo $output;
 
             <p><img src="/images/projects/frcscouting.ga/mutliple_column.gif" alt="mutliple_column" /></p>
 
-            <p>The way of sending requests to database is same as <abbr>chart.js</abbr> implementation, which includes using <code><a href="https://github.com/therobingan/frcscouting.ga/blob/6aced12a6bc93109d2a8f9805c08d3841f5431a3/explorepage.inc.php#L19">load_rank(con1,con2,con3)</a></code>. So I will only explain 
-            the PHP part -- <code><a href="https://github.com/therobingan/frcscouting.ga/blob/master/loadrank.php">loadrank.php</a></code>. </p>
+            <p>The way of sending requests to database is same as <abbr>chart.js</abbr> implementation, which includes using <code><a href="https://github.com/robin-gan/frcscouting.ga/blob/6aced12a6bc93109d2a8f9805c08d3841f5431a3/explorepage.inc.php#L19">load_rank(con1,con2,con3)</a></code>. So I will only explain 
+            the PHP part -- <code><a href="https://github.com/robin-gan/frcscouting.ga/blob/master/loadrank.php">loadrank.php</a></code>. </p>
 
             <p>This is query command to the database,</p>
             <figure class="highlight"><pre><code>//SQL query command
@@ -249,7 +249,7 @@ $query = /* sql query statement */;
             </pre>
             </figure>
 
-            <p>After that, I used a <code>for loop</code> to generate <abbr>HTML</abbr> with data, which is also the result to <code><a href="https://github.com/therobingan/frcscouting.ga/blob/6aced12a6bc93109d2a8f9805c08d3841f5431a3/explorepage.inc.php#L19">load_rank(con1,con2,con3)</a></code>.</p>
+            <p>After that, I used a <code>for loop</code> to generate <abbr>HTML</abbr> with data, which is also the result to <code><a href="https://github.com/robin-gan/frcscouting.ga/blob/6aced12a6bc93109d2a8f9805c08d3841f5431a3/explorepage.inc.php#L19">load_rank(con1,con2,con3)</a></code>.</p>
             <figure class="highlight"><pre><code>$output .= '&lt;/tr>';
 $fetchArray = mysqli_fetch_array($result);
 while($rows = $fetchArray){
@@ -304,7 +304,7 @@ echo $output;
             </ul>
 
             <h4>Xcode Version(Apple APP)</h4>
-            <p>Here is the <a href="https://github.com/therobingan/frcscouting.ga-Xcode">code</a>. Xcode version of frcscouting.ga, basically displaying sub page of the website version in each tab. I didn't publish it because I didn't want to pay $100 developer fee. </p>
+            <p>Here is the <a href="https://github.com/robin-gan/frcscouting.ga-Xcode">code</a>. Xcode version of frcscouting.ga, basically displaying sub page of the website version in each tab. I didn't publish it because I didn't want to pay $100 developer fee. </p>
             <p><img src="/images/projects/frcscouting.ga/mobile version.png" alt="mobile version" /></p>
             <h4><a href="/projects/#Scope">frc-scope.com</a></h4>
             <p>Second verison of this project, it will be a professional website for all FRC teams. Be ready.....</p>

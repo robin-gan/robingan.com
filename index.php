@@ -41,19 +41,19 @@ Github @therobingan
 <body>
     <div id="chassis">
         <div class="icons">
-            <a href="/bio">
+            <!--<a href="/bio">
                 <i class="fas fa-user-ninja"></i>
             </a>   
-            <a href="https://github.com/therobingan/robingan.com">
+            <a href="https://github.com/robin-gan/robingan.com">
                 <i class="fas fa-code"></i>
             </a>
 
             <a href="/resume">
                 <i class="fas fa-file-alt"></i>
             </a>
-            <a href="https://github.com/therobingan">
+            <a href="https://github.com/robin-gan">
                 <i class="fab fa-github-alt"></i>
-            </a>
+            </a>-->
         </div>    
 
         <div class="wrapper">

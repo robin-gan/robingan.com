@@ -115,7 +115,7 @@ more about HTML structure and CSS styling through this project. And I'm
 still updating this website until August 2019 when I gave up and wanted
 to start a completed new one(robingan.org).
 
-View the entire website [code](https://github.com/therobingan/robingan.ga)
+View the entire website [code](https://github.com/robin-gan/robingan.ga)
 
 .
 

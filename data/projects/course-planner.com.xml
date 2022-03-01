@@ -7,7 +7,7 @@
                 <a>Link</a>
                 <ul>
                     <li>
-                        <a href="https://github.com/therobingan/course-planner.com">View Code</a>
+                        <a href="https://github.com/robin-gan/course-planner.com">View Code</a>
                     </li>
 
                     <li>
@@ -114,7 +114,7 @@
             </pre>
             </figure>
             <h4>Combine with school schedule</h4>
-            <p>I also used the schedule data from <a href="https://github.com/therobingan/course-planner.com/blob/master/client/src/data/schedules/smchs.js">seeyourschedule.com</a>. So the algorithm won't 
+            <p>I also used the schedule data from <a href="https://github.com/robin-gan/course-planner.com/blob/master/client/src/data/schedules/smchs.js">seeyourschedule.com</a>. So the algorithm won't 
             put plans on weekends, and the days that doesn't have the class the teacher selects(for my high school, we don't have all the classes everyday). </p>
 <figure class="highlight"><pre><code>export const BLOCKS =
 {

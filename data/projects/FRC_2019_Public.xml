@@ -7,7 +7,7 @@
                 <a>Link</a>
                 <ul>
                     <li>
-                        <a href="https://github.com/therobingan/FRC-2019-Public">View Code</a>
+                        <a href="https://github.com/robin-gan/FRC-2019-Public">View Code</a>
                     </li>
                     <li>
                         <a href="/media/#FRC_Season_2019">Recap Blog</a>
@@ -56,7 +56,7 @@
             <p>Luckily, our team is rich enough to purchase <a href="https://limelightvision.io/">limelight</a> camera, <abbr>a vision tracking product designed for <a href="https://www.firstinspires.org/robotics/frc">FRC</a></abbr>. 
             It saves lots of time from making one from scratch, thus I can focus more on programming. I coded a working drive base with auto steering in two weeks, </p>
             <p><img src="/images/projects/FRC_2019_Public/auto_steering.gif" alt="auto_steering"/></p>
-            <p>In the <code><a href="https://github.com/therobingan/FRC-2019-Public/blob/master/src/main/java/frc/robot/commands/VisionTurn.java">VisionTurn</a></code>, I use <code>tx</code>, the <strong>horizontal error</strong> from center of target, as shown in this beautiful hand writing, as an input PID value to reach the error
+            <p>In the <code><a href="https://github.com/robin-gan/FRC-2019-Public/blob/master/src/main/java/frc/robot/commands/VisionTurn.java">VisionTurn</a></code>, I use <code>tx</code>, the <strong>horizontal error</strong> from center of target, as shown in this beautiful hand writing, as an input PID value to reach the error
              to complete the auto steering. </p>
             <p><img src="/images/projects/FRC_2019_Public/tx.png" alt="tx"/></p>
             <p>Here is an explanation with code, </p>
@@ -106,7 +106,7 @@ public boolean willBeForward(){
 </code>
             </pre>
             </figure>   
-            <p>In <a href="https://github.com/therobingan/FRC-2019-Public/blob/master/src/main/java/frc/robot/subsystems/Manipulator.java">Manipulator.java</a> file, we made the wrist to check periodically with this method to determine which side to face. </p>
+            <p>In <a href="https://github.com/robin-gan/FRC-2019-Public/blob/master/src/main/java/frc/robot/subsystems/Manipulator.java">Manipulator.java</a> file, we made the wrist to check periodically with this method to determine which side to face. </p>
 
 <figure class="highlight"><pre><code>//This is in Manipulator.java
 
@@ -153,7 +153,7 @@ public void periodic(){
                 <li>Code for 2020 season, it will be available <a href="/projects/#FRC_Public_2020">here</a>.</li>
             </ul>
 
-            <p>View the entire code <a href="https://github.com/therobingan/FRC-2019-Public">repo</a>. </p>
+            <p>View the entire code <a href="https://github.com/robin-gan/FRC-2019-Public">repo</a>. </p>
         ]]>
     </content>
 </table>
