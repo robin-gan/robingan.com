@@ -27,6 +27,7 @@
     <!--<link rel="stylesheet" href="fontawsome/css/all.min.css" />-->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
     crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/6022bdf589.js" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheets" href="/styles/reset.css" />
     <link rel="stylesheet" href="/styles/descPage.css?<?php echo time(); ?>"/>

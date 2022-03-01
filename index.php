@@ -41,19 +41,18 @@ Github @therobingan
 <body>
     <div id="chassis">
         <div class="icons">
-            <!--<a href="/bio">
-                <i class="fas fa-user-ninja"></i>
-            </a>   
-            <a href="https://github.com/robin-gan/robingan.com">
-                <i class="fas fa-code"></i>
+            <a href="https://soundcloud.com/robingan">
+                <i class="fa-brands fa-soundcloud"></i>
             </a>
-
-            <a href="/resume">
-                <i class="fas fa-file-alt"></i>
+            <a href="https://open.spotify.com/artist/7dsKwts1pqLagD1gyHNCjL?si=wmfqLjspQHaTkNCUO2758Q">
+                <i class="fa-brands fa-spotify"></i>
             </a>
-            <a href="https://github.com/robin-gan">
-                <i class="fab fa-github-alt"></i>
-            </a>-->
+            <a href="https://www.youtube.com/channel/UCjCP4U38X4g9HG1onRKJxlA">
+                <i class="fa-brands fa-youtube"></i>
+            </a>
+            <a href="https://tiktok.com/@robin.gan">
+                <i class="fa-brands fa-tiktok"></i>
+            </a>
         </div>    
 
         <div class="wrapper">
