@@ -60,7 +60,7 @@ Github @therobingan
             <a href="/"><h1 data-heading="Robin Gan">Robin Gan</h1></a>
         </div>
         
-        <div id="large-id">
+        <!--<div id="large-id">
             <div class="container" id="navvv" style="width: 150px; right: 10%;">
                 <a href="/">
                     <div class="items">
@@ -72,8 +72,8 @@ Github @therobingan
                         </div>
                     </div>
                 </a>
-                <a href="/projects">
-                    <div class="items">
+                <a>
+                    <div class="items items-disable">
                         <div class="icon-wrapper">
                         <i class="fas fa-tools"></i>
                         </div>
@@ -106,7 +106,7 @@ Github @therobingan
                 </a>
 
             </div>
-        </div>
+        </div>-->
 
         <div id="blog">
             <!--Bio-->
