@@ -129,7 +129,7 @@ Github @therobingan
     <div id="modal_cover" style="display:none;"></div>
 
     <!--bottom menu-->
-    <nav class="nav" id="bottomMenu">
+    <!--<nav class="nav" id="bottomMenu">
         <a href="/" class="nav__link nav__link--active">
             <i class="fas fa-registered nav__icon"></i>
             <span class="nav__text">Home</span>
@@ -146,6 +146,6 @@ Github @therobingan
             <i class="fas fa-map nav__icon"></i>
             <span class="nav__text">Story</span>
         </a>
-    </nav>
+    </nav>-->
 </body>
 </html>
