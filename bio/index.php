@@ -53,7 +53,7 @@ Github @therobingan
   <p>I've learned programming for 1 year. I coded websites, contest algorithms, FRC robot and AI. All my code is freely accessible on <a href="https://github.com/robin-gan">GitHub</a>. Please let <a href="mailto:robinganmusic@gmail.com">me</a> know if there's anything I can improve.
   </p>
 
-  <p>I made school-related app like <a href="https://seeyourschedule.com">See Your Schedule</a>, a <a href="https://courseplanner-com.herokuapp.com">course planner </a> that helps teachers in my school plan their teaching schedule easier, a <a href="https://coronaware.net/old">website</a> for people in Orange County to view covid-19 cases, 
+  <p>I made school-related app like <a href="http://seeyourschedule.robingan.com">See Your Schedule</a>, a <a href="https://courseplanner-com.herokuapp.com">course planner </a> that helps teachers in my school plan their teaching schedule easier, a <a href="https://coronaware.robingan.com/old">website</a> for people in Orange County to view covid-19 cases, 
   one of the best FRC 2020 season autonomous <a href="https://www.youtube.com/watch?v=ReYujJ4UYuQ">code</a> for 5805.
   </p>
 
