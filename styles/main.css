@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Jura&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+:root {
+    --transitionTime: 0s;
+
+    /*--darkBackgroundGray: #343f50;*/
+    --darkBackgroundGray: black;
+    --projectBorder:#99a1ae;
+    --liGray:#b1b1b1;
+    --lightGray:#d3cccc;
+
+    --mainWhite:white;
+
+    /*--mainGold: #31afee; gray: #d3cfcc*/
+    --mainGold: #ff1616;
+    /*--darkGoldDesLink: #a48207;*/
+    --darkGoldDesLink: #ff1616;
+    --darkGoldDesLinkHover: #514107;
+}
+
+html {
+    background-color:var(--darkBackgroundGray); /*var(--darkBackgroundGray);*/
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color:var(--darkBackgroundGray); /*var(--darkBackgroundGray);*/
+    overflow-x: hidden;
+    padding-bottom: 40px;
+}
+
+@media (max-width:666px) {
+    body {
+        padding-bottom: 100px;
+    }
+}
+
+* {
+    -webkit-overflow-scrolling: touch;
+    transition:var(--transitionTime);
+    /*font-family: monospace,"Lucida Grande",sans-serif;*/
+    /*font-family:'Jura',monospace,sans-serif;*/
+    font-family: 'Press Start 2P', cursive;
+}
+
+a:-webkit-any-link {
+    color: transparent;
+}
+
+a {
+    color: transparent;
+}
+
+p{
+    line-height: 1.55;
+}
+
+strong, b{
+    color:rgb(0, 0, 0);
+    text-decoration: underline;
+}
+
+.icons{
+    font-size:2.3px;
+}
+
+h2, h3, h4, h5, p, li, strong, b{
+    color: var(--mainWhite);
+}
+/*
+::-webkit-scrollbar {
+    width: 0px;
+}*/
